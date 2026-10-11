@@ -5,11 +5,13 @@
 | Метод | Путь | Ответ |
 |---|---|---|
 | GET | `/collections` | `{ topics: Collection[], moods: Collection[] }` |
-| GET | `/recommendations?topic=detective&mood=cozy&refinement=humor&query=...` | `{ movies: Movie[], relaxed: boolean, message?: string }` |
+| GET | `/recommendations?topic=detective&mood=cozy&primary=mood&refinement=humor&query=...` | `{ movies: Movie[], relaxed: boolean, message?: string }` |
 | GET | `/movies/:id` | `Movie` или HTTP 404 |
 | GET | `/movies?ids=6553389,proto-knives` | `Movie[]` в порядке запрошенных ID; неизвестные ID пропускаются |
 
-`topic` — ID темы; `mood`, `refinement` и `query` необязательны. `refinement`: `humor`, `lighter`, `energy`, `animation`. Текст в интерфейсе хранится в URL-параметре `q`; HTTP-клиент отправляет его как `query`.
+`topic` — ID темы; `mood`, `primary`, `refinement` и `query` необязательны. `primary`: `topic` (по умолчанию) или `mood`. При `primary=mood` тема не ограничивает выдачу: выбранное настроение ведёт подборку по всем темам. Выбор темы снова переключает `primary=topic` и очищает настроение.
+
+`refinement` — последнее действие пересборки, а не список включённых фильтров: `humor`, `energy`, `animation`, `cozy`, `tension`, `thoughtful`, `childhood`; `lighter` поддерживается для старых ссылок. Новое действие заменяет предыдущее. Фронтенд хранит историю использованных кнопок отдельно и не отправляет её серверу. Текст в интерфейсе хранится в URL-параметре `q`; HTTP-клиент отправляет его как `query`.
 
 Выдача содержит до 9 уникальных фильмов в порядке рекомендации. Фронтенд раскрывает их порциями по три без нового запроса; новое пожелание запрашивает новую выдачу. Сервер не должен менять уже полученный список при локальном расширении. `relaxed=true` и `message` поясняют ослабление условий. Для малого набора данных лучше вернуть близкие варианты, сохранив совпадения первыми.
 

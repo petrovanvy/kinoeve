@@ -11,7 +11,7 @@ export interface Movie {
   links: { label: string; url: string }[]; origin: 'assignment' | 'prototype';
 }
 export interface Collection { id: string; title: string; description: string; posters: string[] }
-export interface RecommendationQuery { topic: string; mood?: string; refinement?: string; query?: string }
+export interface RecommendationQuery { topic: string; mood?: string; primary?: 'topic' | 'mood'; refinement?: string; query?: string }
 export interface RecommendationResult { movies: Movie[]; relaxed: boolean; message?: string }
 export interface MoviesApi {
   getCollections(signal?: AbortSignal): Promise<{ topics: Collection[]; moods: Collection[] }>;
