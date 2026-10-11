@@ -1,0 +1,17 @@
+[
+  {
+    "source": "https://www.cinema.com/film/15837/knives-out/gallery/",
+    "image": "https://www.cinema.com/image_lib/15837_002.jpg",
+    "file": "assets/film-detail/still-1.jpg"
+  },
+  {
+    "source": "https://www.cinema.com/film/15837/knives-out/gallery/",
+    "image": "https://www.cinema.com/image_lib/15837_001.jpg",
+    "file": "assets/film-detail/still-2.jpg"
+  },
+  {
+    "source": "https://www.cinema.com/film/15837/knives-out/gallery/",
+    "image": "https://www.cinema.com/image_lib/15837_003.jpg",
+    "file": "assets/film-detail/still-3.jpg"
+  }
+]

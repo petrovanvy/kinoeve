@@ -1,0 +1,75 @@
+[
+  {
+    "key": "rian",
+    "page": "https://en.wikipedia.org/wiki/Rian_Johnson",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Rian_Johnson_TIFF_2025_%28cropped%29.jpg/250px-Rian_Johnson_TIFF_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "file": "assets/film-detail/rian.jpg",
+    "bytes": 21771
+  },
+  {
+    "key": "daniel",
+    "page": "https://en.wikipedia.org/wiki/Daniel_Craig",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Daniel_Craig_TIFF_2025_Red_Carpet_%28cropped%29.jpg/250px-Daniel_Craig_TIFF_2025_Red_Carpet_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "file": "assets/film-detail/daniel.jpg",
+    "bytes": 23216
+  },
+  {
+    "key": "ana",
+    "page": "https://en.wikipedia.org/wiki/Ana_de_Armas",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Ana_de_Armas_%2854462619561%29_%28cropped_3%29.jpg/250px-Ana_de_Armas_%2854462619561%29_%28cropped_3%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "file": "assets/film-detail/ana.jpg",
+    "bytes": 24964
+  },
+  {
+    "key": "chris",
+    "page": "https://en.wikipedia.org/wiki/Chris_Evans_(actor)",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Chris_Evans_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg/250px-Chris_Evans_at_the_2025_Toronto_International_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "file": "assets/film-detail/chris.jpg",
+    "bytes": 25341
+  },
+  {
+    "key": "jamie",
+    "page": "https://en.wikipedia.org/wiki/Jamie_Lee_Curtis",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/2025_Jamie_Lee_Curtis_%28cropped%29.jpg/250px-2025_Jamie_Lee_Curtis_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "file": "assets/film-detail/jamie.jpg",
+    "bytes": 29024
+  },
+  {
+    "key": "gallery",
+    "page": "https://www.cinema.com/film/15837/knives-out/gallery/",
+    "images": [
+      "https://www.cinema.com/images/toolbar.gif",
+      "https://www.cinema.com/images/twitterLogo.png",
+      "https://www.cinema.com/image_lib/25356_fp_side.jpg",
+      "https://www.cinema.com/images/fp_bluemore.gif",
+      "https://www.cinema.com/images/front_page_comp.gif",
+      "https://www.cinema.com/images/fp_bluemore.gif",
+      "https://www.cinema.com/images/fp_bluemore.gif",
+      "https://www.cinema.com/images/b_pnavback.gif",
+      "https://www.cinema.com/images/b_pnavforward.gif",
+      "https://www.cinema.com/image_lib/15837_poster9.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster9.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster13.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster2.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster12.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster11.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster10.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster8.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster7.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster6.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster5.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster4.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_poster3.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_002.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_001.jpg",
+      "https://www.cinema.com/film/15837/knives-out/gallery/thumb/15837_003.jpg"
+    ],
+    "links": [
+      "https://www.cinema.com/film/gallery/",
+      "https://www.cinema.com/film/trailers/",
+      "https://www.cinema.com/film/15837/knives-out/gallery/",
+      "https://www.cinema.com/film/15837/knives-out/trailers.phtml"
+    ]
+  }
+]

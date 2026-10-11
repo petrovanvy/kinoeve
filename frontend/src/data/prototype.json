@@ -1,0 +1,634 @@
+[
+  {
+    "id": "proto-iron",
+    "title": "Железный человек",
+    "year": 2008,
+    "runtime": 126,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/1.jpg",
+    "kp": 7.9,
+    "imdb": 7.9,
+    "mood": "С юмором",
+    "logline": "Харизматичный герой, юмор и зрелищный экшен.",
+    "synopsis": "Харизматичный герой, юмор и зрелищный экшен.",
+    "topics": [
+      "super",
+      "action"
+    ],
+    "moods": [
+      "tension",
+      "energy"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-spider",
+    "title": "Человек-паук: Через вселенные",
+    "year": 2018,
+    "runtime": 117,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/2.jpg",
+    "kp": 8.1,
+    "imdb": 8.4,
+    "mood": "Ярко и легко",
+    "logline": "Яркая анимация и герой, который учится быть собой.",
+    "synopsis": "Яркая анимация и герой, который учится быть собой.",
+    "topics": [
+      "super",
+      "animation",
+      "family"
+    ],
+    "moods": [
+      "cozy",
+      "light",
+      "childhood"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-dark",
+    "title": "Тёмный рыцарь",
+    "year": 2008,
+    "runtime": 152,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/3.jpg",
+    "kp": 8.5,
+    "imdb": 9.0,
+    "mood": "Мрачно и напряжённо",
+    "logline": "Мрачный детектив с Джокером. Много напряжения.",
+    "synopsis": "Мрачный детектив с Джокером. Много напряжения.",
+    "topics": [
+      "super",
+      "detective",
+      "crime"
+    ],
+    "moods": [
+      "tension"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-budapest",
+    "title": "Отель «Гранд Будапешт»",
+    "year": 2014,
+    "runtime": 100,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/4.jpg",
+    "kp": 7.9,
+    "imdb": 8.1,
+    "mood": "Иронично и красиво",
+    "logline": "Кража картины, тайна завещания и тонкий юмор.",
+    "synopsis": "Кража картины, тайна завещания и тонкий юмор.",
+    "topics": [
+      "comedy",
+      "detective",
+      "authors"
+    ],
+    "moods": [
+      "cozy",
+      "light"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-incredibles",
+    "title": "Суперсемейка",
+    "year": 2004,
+    "runtime": 115,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/7.jpg",
+    "kp": 8.0,
+    "imdb": 8.0,
+    "mood": "Для всей семьи",
+    "logline": "Семейный экшен и тёплый юмор. Смотреть вместе.",
+    "synopsis": "Семейный экшен и тёплый юмор. Смотреть вместе.",
+    "topics": [
+      "super",
+      "animation",
+      "family"
+    ],
+    "moods": [
+      "cozy",
+      "light",
+      "childhood"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-guardians",
+    "title": "Стражи Галактики",
+    "year": 2014,
+    "runtime": 121,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/8.jpg",
+    "kp": 7.9,
+    "imdb": 8.0,
+    "mood": "С иронией",
+    "logline": "Космос, дружба, шутки и отличный саундтрек.",
+    "synopsis": "Космос, дружба, шутки и отличный саундтрек.",
+    "topics": [
+      "super",
+      "scifi",
+      "comedy"
+    ],
+    "moods": [
+      "cozy",
+      "light",
+      "energy"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-hancock",
+    "title": "Хэнкок",
+    "year": 2008,
+    "runtime": 92,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/9.jpg",
+    "kp": 7.4,
+    "imdb": 6.4,
+    "mood": "Герой с характером",
+    "logline": "Неидеальный герой. Экшен и юмор.",
+    "synopsis": "Неидеальный герой. Экшен и юмор.",
+    "topics": [
+      "super",
+      "comedy"
+    ],
+    "moods": [
+      "tension"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-strange",
+    "title": "Доктор Стрэндж",
+    "year": 2016,
+    "runtime": 115,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/10.jpg",
+    "kp": 7.5,
+    "imdb": 7.5,
+    "mood": "Магия и ирония",
+    "logline": "Необычные миры, остроумный герой и зрелищная магия.",
+    "synopsis": "Необычные миры, остроумный герой и зрелищная магия.",
+    "topics": [
+      "super",
+      "fantasy"
+    ],
+    "moods": [
+      "tension"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-bighero",
+    "title": "Город героев",
+    "year": 2014,
+    "runtime": 102,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/11.jpg",
+    "kp": 8.0,
+    "imdb": 7.8,
+    "mood": "Тепло и смешно",
+    "logline": "Добрый робот и команда друзей спасают город.",
+    "synopsis": "Добрый робот и команда друзей спасают город.",
+    "topics": [
+      "animation",
+      "family",
+      "super"
+    ],
+    "moods": [
+      "cozy",
+      "light",
+      "childhood"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-batman",
+    "title": "Бэтмен",
+    "year": 2022,
+    "runtime": 176,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/12.jpg",
+    "kp": 7.8,
+    "imdb": 7.8,
+    "mood": "Настоящее расследование",
+    "logline": "Загадки Загадочника и атмосферный ночной Готэм.",
+    "synopsis": "Загадки Загадочника и атмосферный ночной Готэм.",
+    "topics": [
+      "super",
+      "detective",
+      "crime"
+    ],
+    "moods": [
+      "tension"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-knives",
+    "title": "Достать ножи",
+    "year": 2019,
+    "runtime": 130,
+    "genres": [
+      "Детектив",
+      "Комедия"
+    ],
+    "countries": [
+      "США"
+    ],
+    "poster": "/assets/19.jpg",
+    "kp": 8.1,
+    "imdb": 7.9,
+    "mood": "С иронией",
+    "logline": "Семейные секреты, остроумный сыщик и хитрая загадка.",
+    "synopsis": "После смерти писателя его семья собирается в особняке. Сыщик Бенуа Блан разбирается в противоречивых показаниях, а за внешним благополучием открываются семейные секреты.",
+    "topics": [
+      "detective",
+      "comedy"
+    ],
+    "moods": [
+      "tension"
+    ],
+    "people": [
+      {
+        "name": "Райан Джонсон",
+        "role": "Режиссёр",
+        "photo": "/assets/film-detail/rian.jpg"
+      },
+      {
+        "name": "Дэниэл Крэйг",
+        "role": "Бенуа Блан",
+        "photo": "/assets/film-detail/daniel.jpg"
+      },
+      {
+        "name": "Ана де Армас",
+        "role": "Марта Кабрера",
+        "photo": "/assets/film-detail/ana.jpg"
+      },
+      {
+        "name": "Крис Эванс",
+        "role": "Рэнсом Драйсдейл",
+        "photo": "/assets/film-detail/chris.jpg"
+      },
+      {
+        "name": "Джейми Ли Кёртис",
+        "role": "Линда Драйсдейл",
+        "photo": "/assets/film-detail/jamie.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "«Оскар» 2020",
+        "category": "Оригинальный сценарий",
+        "result": "nomination"
+      }
+    ],
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/film-detail/still-3.jpg",
+        "label": "Трейлер",
+        "url": "https://www.youtube.com/watch?v=xi-1NchUqMA",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/xi-1NchUqMA?autoplay=1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/film-detail/still-1.jpg",
+        "label": "Разговор за столом"
+      },
+      {
+        "type": "image",
+        "image": "/assets/film-detail/still-2.jpg",
+        "label": "Сыщики на улице"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Остроумные диалоги",
+          "query": "юмор"
+        },
+        {
+          "label": "Сильный состав",
+          "query": "актёрский состав"
+        },
+        {
+          "label": "Яркие декорации",
+          "query": "красиво"
+        }
+      ],
+      "caveats": [
+        "Много разговоров"
+      ],
+      "sources": [
+        {
+          "label": "TIME",
+          "url": "https://time.com/5739463/knives-out-review/"
+        },
+        {
+          "label": "RogerEbert.com",
+          "url": "https://www.rogerebert.com/reviews/knives-out-2019"
+        },
+        {
+          "label": "Отзывы на Кинопоиске",
+          "url": "https://www.kinopoisk.ru/film/1188529/reviews/"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Проверить просмотр на Кинопоиске",
+        "url": "https://www.kinopoisk.ru/film/1188529/"
+      }
+    ],
+    "origin": "prototype",
+    "originalTitle": "Knives Out",
+    "age": "16+"
+  },
+  {
+    "id": "proto-sherlock",
+    "title": "Шерлок Холмс",
+    "year": 2009,
+    "runtime": 128,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/20.jpg",
+    "kp": 8.1,
+    "imdb": 7.5,
+    "mood": "Динамично и с юмором",
+    "logline": "Дуэт Холмса и Ватсона: дедукция, подколы и приключения.",
+    "synopsis": "Дуэт Холмса и Ватсона: дедукция, подколы и приключения.",
+    "topics": [
+      "detective",
+      "action"
+    ],
+    "moods": [
+      "tension",
+      "energy"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-inception",
+    "title": "Начало",
+    "year": 2010,
+    "runtime": 148,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/27.jpg",
+    "kp": 8.7,
+    "imdb": 8.8,
+    "mood": "Загадка внутри загадки",
+    "logline": "Расследуй устройство снов и собирай подсказки.",
+    "synopsis": "Расследуй устройство снов и собирай подсказки.",
+    "topics": [
+      "scifi",
+      "detective"
+    ],
+    "moods": [
+      "tension"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-pulp",
+    "title": "Криминальное чтиво",
+    "year": 1994,
+    "runtime": 154,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/32.jpg",
+    "kp": 8.7,
+    "imdb": 8.9,
+    "mood": "Чёрный юмор",
+    "logline": "Криминальные истории, ироничные диалоги и повороты.",
+    "synopsis": "Криминальные истории, ироничные диалоги и повороты.",
+    "topics": [
+      "crime",
+      "action"
+    ],
+    "moods": [
+      "tension"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-nice",
+    "title": "Славные парни",
+    "year": 2016,
+    "runtime": 115,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/33.jpg",
+    "kp": 7.3,
+    "imdb": 7.4,
+    "mood": "Остроумные напарники",
+    "logline": "Два несхожих сыщика, нелепые ситуации и большое дело.",
+    "synopsis": "Два несхожих сыщика, нелепые ситуации и большое дело.",
+    "topics": [
+      "detective",
+      "comedy"
+    ],
+    "moods": [
+      "cozy",
+      "light"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-clue",
+    "title": "Улика",
+    "year": 1985,
+    "runtime": 94,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/34.jpg",
+    "kp": 7.7,
+    "imdb": 7.3,
+    "mood": "Загадка с комедией",
+    "logline": "Убийство в особняке, эксцентричные гости и абсурдный юмор.",
+    "synopsis": "Убийство в особняке, эксцентричные гости и абсурдный юмор.",
+    "topics": [
+      "detective",
+      "comedy"
+    ],
+    "moods": [
+      "cozy",
+      "light"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-enola",
+    "title": "Энола Холмс",
+    "year": 2020,
+    "runtime": 123,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/35.jpg",
+    "kp": 6.5,
+    "imdb": 6.6,
+    "mood": "Легко и с улыбкой",
+    "logline": "Юная сыщица идёт по следу и с улыбкой нарушает правила.",
+    "synopsis": "Юная сыщица идёт по следу и с улыбкой нарушает правила.",
+    "topics": [
+      "detective",
+      "family"
+    ],
+    "moods": [
+      "cozy",
+      "light"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-thor",
+    "title": "Тор: Рагнарёк",
+    "year": 2017,
+    "runtime": 130,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/36.jpg",
+    "kp": 7.7,
+    "imdb": 7.9,
+    "mood": "Много юмора",
+    "logline": "Тор и Халк, яркие приключения и самоирония.",
+    "synopsis": "Тор и Халк, яркие приключения и самоирония.",
+    "topics": [
+      "super",
+      "comedy"
+    ],
+    "moods": [
+      "cozy",
+      "light",
+      "energy"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  },
+  {
+    "id": "proto-shazam",
+    "title": "Шазам!",
+    "year": 2019,
+    "runtime": 132,
+    "genres": [],
+    "countries": [],
+    "poster": "/assets/37.jpg",
+    "kp": 6.7,
+    "imdb": 7.0,
+    "mood": "Весело и легко",
+    "logline": "Подросток осваивает суперсилы. Много комичных ситуаций.",
+    "synopsis": "Подросток осваивает суперсилы. Много комичных ситуаций.",
+    "topics": [
+      "super",
+      "comedy",
+      "family"
+    ],
+    "moods": [
+      "cozy",
+      "light"
+    ],
+    "people": [],
+    "awards": [],
+    "media": [],
+    "reviews": null,
+    "links": [],
+    "origin": "prototype"
+  }
+]

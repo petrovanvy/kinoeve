@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Doctor_Strange_(2016_film)",
+    "source": "https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a1/Doctor_Strange_%282016_film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "path": "/assets/10.jpg"
+  },
+  {
+    "title": "Big_Hero_6_(film)",
+    "source": "https://en.wikipedia.org/wiki/Big_Hero_6_(film)",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Big_Hero_6_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "path": "/assets/11.jpg"
+  },
+  {
+    "title": "The_Batman_(film)",
+    "source": "https://en.wikipedia.org/wiki/The_Batman_(film)",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Batman_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "path": "/assets/12.jpg"
+  }
+]

@@ -1,0 +1,10 @@
+services:
+  frontend:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      DATA_SOURCE: ${DATA_SOURCE:-mock}
+      API_BASE_URL: ${API_BASE_URL:-/api}
+      BACKEND_UPSTREAM: ${BACKEND_UPSTREAM:-}
+    restart: unless-stopped
