@@ -1,0 +1,18 @@
+name: kinoeve
+
+services:
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "0.0.0.0:${FRONTEND_PORT:-8080}:8080"
+    environment:
+      DATA_SOURCE: ${DATA_SOURCE:-mock}
+      API_BASE_URL: ${API_BASE_URL:-/api}
+      BACKEND_UPSTREAM: ${BACKEND_UPSTREAM:-}
+    restart: unless-stopped
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
