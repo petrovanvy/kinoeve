@@ -4,7 +4,7 @@
   import { getApi } from '../lib/api';
   import { navigate } from '../lib/router';
   import { preferences } from '../lib/preferences';
-  import { catalogState, todayHref, catalogUrl, readCatalogState, refineCatalog, nextRefinements, recommendationQuery, recommendationKey, recommendationCache, collectionCache, cacheCollections, cacheRecommendations } from '../lib/catalogState';
+  import { catalogState, todayHref, catalogUrl, readCatalogState, refineCatalog, nextRefinements, refinementUsage, recordRefinementClick, recommendationQuery, recommendationKey, recommendationCache, collectionCache, cacheCollections, cacheRecommendations } from '../lib/catalogState';
   import type { CatalogState } from '../lib/catalogState';
   import type { Collection, Movie } from '../lib/types';
   import MovieCard from '../components/MovieCard.svelte';
@@ -22,7 +22,7 @@
   const request = $derived(recommendationQuery(selection));
   const requestKey = $derived(recommendationKey(request));
   const savedKey = $derived(saved ? $preferences.saved.join(',') : '');
-  const refinements = $derived(nextRefinements(selection));
+  const refinements = $derived(nextRefinements(selection, $refinementUsage));
   function update(values: Partial<CatalogState>, reset = true) {
     const next = { ...get(catalogState), ...values, ...(reset ? { count: 3 as const } : {}) };
     catalogState.set(next);
@@ -33,7 +33,10 @@
     update({ primary: kind, topic: kind === 'topic' ? id : 'super', mood: kind === 'mood' ? id : '', refinement: '', consumed: [], query: '' });
   }
   function refine(id: string) {
-    const next = refineCatalog(get(catalogState), id);
+    const current = get(catalogState);
+    const next = refineCatalog(current, id);
+    if (next === current) return;
+    recordRefinementClick(id);
     catalogState.set(next);
     navigate(catalogUrl(next), false, false);
   }

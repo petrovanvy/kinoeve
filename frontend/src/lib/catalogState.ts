@@ -9,13 +9,38 @@ export const refinementActions = [
   { id: 'tension', label: 'Больше интриги' },
   { id: 'thoughtful', label: 'Есть о чём подумать' },
   { id: 'childhood', label: 'Что-нибудь знакомое' },
-];
+] as const;
+type RefinementId = typeof refinementActions[number]['id'];
+export type RefinementUsage = Partial<Record<RefinementId, number>>;
+const usageKey = 'kinoeve.refinement-usage.v1';
+export function readRefinementUsage(value: unknown): RefinementUsage {
+  if (!value || typeof value !== 'object' || Array.isArray(value)) return {};
+  const usage: RefinementUsage = {};
+  for (const { id } of refinementActions) {
+    const count = (value as Record<string, unknown>)[id];
+    if (typeof count === 'number' && Number.isSafeInteger(count) && count >= 0) usage[id] = count;
+  }
+  return usage;
+}
+function restoreUsage(): RefinementUsage {
+  try { return readRefinementUsage(JSON.parse(localStorage.getItem(usageKey) || '{}')); }
+  catch { return {}; }
+}
+export const refinementUsage = writable<RefinementUsage>(restoreUsage());
+refinementUsage.subscribe(usage => {
+  try { localStorage.setItem(usageKey, JSON.stringify(usage)); }
+  catch { /* Counts remain in memory if browser storage is unavailable. */ }
+});
+export function recordRefinementClick(id: string) {
+  const action = refinementActions.find(action => action.id === id);
+  if (action) refinementUsage.update(usage => ({ ...usage, [action.id]: Math.min((usage[action.id] || 0) + 1, Number.MAX_SAFE_INTEGER) }));
+}
 export interface CatalogState {
   topic: string; mood: string; primary: 'topic' | 'mood';
   refinement: string; consumed: string[]; query: string; count: 3 | 6 | 9;
 }
 const initial: CatalogState = { topic: 'super', mood: '', primary: 'topic', refinement: '', consumed: [], query: '', count: 3 };
-const knownActions = new Set(refinementActions.map(action => action.id));
+const knownActions = new Set<string>(refinementActions.map(action => action.id));
 export function readCatalogState(search: URLSearchParams): CatalogState {
   const refinement = search.get('refinement') || '';
   const consumed = [...new Set((search.get('used') || refinement).split(',').filter(id => knownActions.has(id)))];
@@ -36,14 +61,14 @@ export function catalogUrl(state: CatalogState): string {
   return '/?' + params;
 }
 export function refineCatalog(state: CatalogState, id: string): CatalogState {
-  if (!knownActions.has(id) || state.consumed.includes(id)) return state;
-  return { ...state, refinement: id, consumed: [...state.consumed, id], query: '', count: 3 };
+  if (!knownActions.has(id) || state.refinement === id) return state;
+  return { ...state, refinement: id, consumed: [...new Set([...state.consumed, id])], query: '', count: 3 };
 }
-export function nextRefinements(state: CatalogState) {
-  const remaining = refinementActions.filter(action => !state.consumed.includes(action.id));
-  // Advance the suggestions on each revision, rather than showing the same unused pair forever.
-  const offset = remaining.length ? state.consumed.length % remaining.length : 0;
-  return [...remaining.slice(offset), ...remaining.slice(0, offset)].slice(0, 3);
+export function nextRefinements(state: CatalogState, usage: RefinementUsage = {}) {
+  // Only hide the current intention. Previous choices can return, so suggestions never run out.
+  // Stable ties preserve the editorial order instead of shuffling on every render.
+  return refinementActions.filter(action => action.id !== state.refinement)
+    .sort((a, b) => (usage[a.id] || 0) - (usage[b.id] || 0)).slice(0, 5);
 }
 function restore(): CatalogState {
   try {
