@@ -43,3 +43,6 @@ body:has(dialog[open]) { overflow: hidden; }
   .themes-grid .collage { width: 72px; }
   .themes-grid .theme-copy strong { white-space: normal; line-height: 1.3; font-size: 16px; }
 }
+
+.media-stage video{width:100%;height:100%;object-fit:contain;background:#000}.media-source{display:inline-block;margin-top:12px;font-size:13px;line-height:1.6}.detail-sources{margin-top:32px;font-size:13px;line-height:1.8}.detail-sources summary{cursor:pointer}.detail-sources ul{padding-left:20px}
+.film-media,.film-summary{min-width:0}.media-strip{overflow-x:auto}.media-thumb{flex-shrink:0}

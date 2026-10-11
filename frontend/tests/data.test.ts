@@ -13,10 +13,20 @@ describe('assignment and prototype integration', () => {
     for (const movie of movies) for (const image of [movie.poster, ...movie.media.map(m => m.image), ...movie.people.flatMap(p => p.photo ? [p.photo] : [])]) expect(existsSync('public' + image), image).toBe(true);
     for (const collection of [...topics, ...moods]) expect(collection.posters.length).toBeGreaterThan(0);
   });
-  it('handles null awards and missing reviews without invented content', () => {
-    const archive = movies.filter(m => m.origin === 'assignment');
-    expect(archive.every(m => m.reviews === null)).toBe(true);
-    expect(archive.every(m => Array.isArray(m.awards))).toBe(true);
+  it('serves sourced reviews, a trailer, stills and creators for every film', async () => {
+    for (const item of movies) {
+      const movie = await mockApi.getMovie(item.id);
+      expect(movie.reviews?.praise.length, movie.title).toBeGreaterThanOrEqual(2);
+      expect(movie.reviews?.caveats.length, movie.title).toBeGreaterThan(0);
+      expect(movie.reviews?.sources.length, movie.title).toBeGreaterThan(0);
+      expect(movie.media.some(m => m.type === 'trailer' && m.url), movie.title).toBe(true);
+      expect(movie.media.some(m => m.type === 'image'), movie.title).toBe(true);
+      expect(movie.people.some(p => p.role === 'Режиссёр'), movie.title).toBe(true);
+      expect(movie.people.some(p => p.photo), movie.title).toBe(true);
+      expect(Array.isArray(movie.awards)).toBe(true);
+      for (const source of [...(movie.reviews?.sources ?? []), ...(movie.detailSources ?? [])]) expect(['http:', 'https:']).toContain(new URL(source.url).protocol);
+      for (const media of movie.media) for (const url of [media.url, media.embedUrl, media.videoUrl].filter(Boolean)) expect(new URL(url!).protocol).toBe('https:');
+    }
   });
 });
 describe('recommendation behavior', () => {
@@ -34,6 +44,12 @@ describe('recommendation behavior', () => {
   });
   it('finds assignment films by name', () => {
     expect(recommend(movies, { topic: 'authors', query: 'Песнь моря' }).movies[0].title).toBe('Песнь моря');
+  });
+  it('finds multiple films using a review characteristic', () => {
+    const tag = movies.find(m => m.id === 'proto-iron')!.reviews!.praise.find(t => t.query === 'яркие актёры')!;
+    const result = recommend(movies, { topic: 'super', query: tag.query });
+    expect(result.relaxed).toBe(false);
+    expect(result.movies.slice(0, 3).every(m => m.reviews?.praise.some(t => t.query === tag.query))).toBe(true);
   });
   it('relaxes impossible conditions and reports it instead of empty results', () => {
     const result = recommend(movies, { topic: 'missing', query: 'несуществующийзапрос' });

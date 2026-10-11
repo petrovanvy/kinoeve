@@ -1,0 +1,3207 @@
+{
+  "proto-iron": {
+    "originalTitle": "Iron Man",
+    "genres": [
+      "боевик",
+      "приключения",
+      "фантастика",
+      "фэнтези"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "Изобретатель и промышленник Тони Старк попадает в плен к террористам. Чтобы выбраться, он создаёт бронированный костюм. Вернувшись домой, Тони решает изменить жизнь и усовершенствовать своё изобретение — теперь оно должно защищать людей.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/3f596ec7ddcc1835.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/iron_man/videos/DUAXOmVbbikl",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/841/375/source_DD325E4F-1D39-45BE-8F06-2D89F0B21064IronMan_Trailer1_1216358979742_mp4_video_1280x720_3900000_primary_audio_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/64693fd083d3e7a0.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/668cb26741fa8a5f.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/dd8ecf509ff936cf.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Джон Фавро",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/717d836d435f7b88.jpg"
+      },
+      {
+        "name": "Роберт Дауни-младший",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/9045a745dd73a963.jpg"
+      },
+      {
+        "name": "Терренс Ховард",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/232fa5df0818817f.jpg"
+      },
+      {
+        "name": "Джефф Бриджес",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/85601de497027aea.jpg"
+      },
+      {
+        "name": "Гвинет Пэлтроу",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/e85ec6a7f6a09f04.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 2009",
+        "category": "Лучшие визуальные эффекты",
+        "result": "nomination"
+      },
+      {
+        "title": "Оскар 2009",
+        "category": "Лучший монтаж звука",
+        "result": "nomination"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Харизма Дауни-младшего",
+          "query": "яркие актёры"
+        },
+        {
+          "label": "Остроумный герой",
+          "query": "юмор"
+        },
+        {
+          "label": "Зрелищный экшен",
+          "query": "движение"
+        }
+      ],
+      "caveats": [
+        "Шаблонный злодей",
+        "Перегруженный финал"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/iron_man/reviews"
+        },
+        {
+          "label": "Financial Times",
+          "url": "https://www.ft.com/content/37570a9e-16d3-11dd-bbfc-0000779fd2ac"
+        },
+        {
+          "label": "The Spectator",
+          "url": "https://www.spectator.co.uk/2008/04/tired-old-friend/"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt0371746/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/iron_man"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Iron_Man_%282008_film%29"
+      }
+    ]
+  },
+  "proto-spider": {
+    "originalTitle": "Spider-Man: Into the Spider-Verse",
+    "genres": [
+      "семейный",
+      "боевик",
+      "приключения",
+      "комедия",
+      "фэнтези",
+      "анимация"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "Подросток Майлз Моралес получает способности Человека-паука и встречает других героев из параллельных вселенных. Им предстоит остановить опасный эксперимент, а Майлзу — найти собственный способ быть супергероем.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/679fc0f0de9521f0.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse/videos/aMC_TQwwVa7P",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/68/491/source_F4DE013F-3EA5-47D4-9C28-3B16FE607E2Dspidermanintothespiderverse_trailer2_1334735427681_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/7d39d9ded3035aaf.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/1f40eee06c3d3d1e.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/65a320c0a8adff76.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Боб Персичетти",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/93de1563dce54398.jpg"
+      },
+      {
+        "name": "Питер Рэмзи",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/8710d92d5e40a0d0.jpg"
+      },
+      {
+        "name": "Родни Ротман",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/114b4328d2c3f9a5.jpg"
+      },
+      {
+        "name": "Шамеик Мур",
+        "role": "Озвучка",
+        "photo": "/assets/details/people/4cd66d1001262031.jpg"
+      },
+      {
+        "name": "Джейк Джонсон",
+        "role": "Озвучка",
+        "photo": "/assets/details/people/41ec173299d585fe.jpg"
+      },
+      {
+        "name": "Хейли Стайнфелд",
+        "role": "Озвучка",
+        "photo": "/assets/details/people/cbaa639a693593a8.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 2019",
+        "category": "Лучший анимационный фильм",
+        "result": "win"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Необычная анимация",
+          "query": "красивая картинка"
+        },
+        {
+          "label": "Юмор и душевность",
+          "query": "юмор"
+        },
+        {
+          "label": "Ощущение живого комикса",
+          "query": "красивая картинка"
+        }
+      ],
+      "caveats": [
+        "Очень насыщенная картинка"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse/reviews"
+        },
+        {
+          "label": "Chicago Reader",
+          "url": "https://www.chicagoreader.com/chicago/spider-man-into-the-spider-verse/Film?oid=63641490"
+        },
+        {
+          "label": "New York Times",
+          "url": "https://www.nytimes.com/2018/12/31/movies/spider-man-into-the-spider-verse-father.html"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt4633694/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Spider-Man%3A_Into_the_Spider-Verse"
+      }
+    ]
+  },
+  "proto-dark": {
+    "originalTitle": "The Dark Knight",
+    "genres": [
+      "боевик",
+      "приключения",
+      "фэнтези"
+    ],
+    "countries": [
+      "США",
+      "Великобритания"
+    ],
+    "synopsis": "Бэтмен, комиссар Гордон и прокурор Харви Дент пытаются освободить Готэм от организованной преступности. Их планы разрушает Джокер: он превращает борьбу за город в испытание границ, которые герои готовы переступить.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/422aa76ac488014f.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/the_dark_knight/videos/rwoPaPk_Hgng",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/448/323/source_43FCA9A4-D653-4C79-8F07-756F7D074AF8TheDarkKnightTr_1816172099679_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/5eeb6283f2605dac.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/175410794874b233.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/15ec4eed348dae44.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Кристофер Нолан",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/200339b82fbefbf6.jpg"
+      },
+      {
+        "name": "Кристиан Бэйл",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/b5d794c22da1894c.jpg"
+      },
+      {
+        "name": "Хит Леджер",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/7643fd70a9455cb5.jpg"
+      },
+      {
+        "name": "Аарон Экхарт",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/f3019cb57dcfaa4a.jpg"
+      },
+      {
+        "name": "Майкл Кейн",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/de1ade15738e041d.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 2009",
+        "category": "Лучшая мужская роль второго плана — Хит Леджер",
+        "result": "win"
+      },
+      {
+        "title": "Оскар 2009",
+        "category": "Лучший монтаж звука",
+        "result": "win"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Джокер Хита Леджера",
+          "query": "джокер хита леджера"
+        },
+        {
+          "label": "Напряжённый криминальный сюжет",
+          "query": "интрига"
+        },
+        {
+          "label": "Сложные моральные выборы",
+          "query": "подумать"
+        }
+      ],
+      "caveats": [
+        "Мрачная история",
+        "Много серьёзных тем"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/the_dark_knight/reviews"
+        },
+        {
+          "label": "MUBI",
+          "url": "https://mubi.com/notebook/posts/now-in-theaters-the-dark-knight-or-can-superhero-movie-fatigue-be-defeated"
+        },
+        {
+          "label": "New Statesman",
+          "url": "http://www.newstatesman.com/film/2008/07/dark-knight-joker-batman-nolan"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt0468569/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/the_dark_knight"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/The_Dark_Knight"
+      }
+    ]
+  },
+  "proto-budapest": {
+    "originalTitle": "The Grand Budapest Hotel",
+    "genres": [
+      "комедия",
+      "драма"
+    ],
+    "countries": [
+      "США",
+      "Германия"
+    ],
+    "synopsis": "Легендарный консьерж Густав и его юный помощник Зеро оказываются в центре истории с ценным полотном, наследством и обвинением в убийстве. На фоне меняющейся Европы дружба помогает им пережить самые невероятные приключения.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/022b7d4b8fd804a5.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/the_grand_budapest_hotel/videos/iuieB90GKV_w",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/712/539/TheGrandBudapestHotel_Trailer1_847935043931_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/918ffef8e82cbd7b.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/e73b1d91e865a8fb.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/f855cf95a2fe6eb0.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Уэс Андерсон",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/0831d38a10c3c04a.jpg"
+      },
+      {
+        "name": "Рэйф Файнс",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/b215fab23d444212.jpg"
+      },
+      {
+        "name": "Ф. Мюррей Абрахам",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/1176e97fc050cb7e.jpg"
+      },
+      {
+        "name": "Матьё Амальрик",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/54bd9377b8062384.jpg"
+      },
+      {
+        "name": "Эдриан Броуди",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/ac212f5dfe40e50e.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 2015",
+        "category": "Лучшие костюмы",
+        "result": "win"
+      },
+      {
+        "title": "Оскар 2015",
+        "category": "Лучшая работа художника-постановщика",
+        "result": "win"
+      },
+      {
+        "title": "Оскар 2015",
+        "category": "Лучший грим и причёски",
+        "result": "win"
+      },
+      {
+        "title": "Оскар 2015",
+        "category": "Лучшая музыка",
+        "result": "win"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Выразительный визуальный стиль",
+          "query": "красивая картинка"
+        },
+        {
+          "label": "Игра Рэйфа Файнса",
+          "query": "яркие актёры"
+        },
+        {
+          "label": "Тонкий юмор",
+          "query": "юмор"
+        }
+      ],
+      "caveats": [
+        "Условный театральный мир"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/the_grand_budapest_hotel/reviews"
+        },
+        {
+          "label": "The Times (UK)",
+          "url": "https://www.thetimes.co.uk/article/what-to-watch-on-tv-this-week-3v3xlvf2g"
+        },
+        {
+          "label": "Filmspotting",
+          "url": "https://www.filmspotting.net/shortends-archive/2020/5/29/the-grand-budapest-hotel"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt2278388/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/the_grand_budapest_hotel"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/The_Grand_Budapest_Hotel"
+      }
+    ]
+  },
+  "proto-incredibles": {
+    "originalTitle": "The Incredibles",
+    "genres": [
+      "семейный",
+      "комедия",
+      "приключения",
+      "анимация"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "После запрета супергеройской деятельности Боб Парр пытается привыкнуть к обычной жизни. Секретное задание возвращает ему ощущение приключения, но вскоре в спасение мира приходится включиться всей семье — у каждого её члена свои необычные способности.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/53be661dc946e259.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/the_incredibles/videos/TMR9XeEw3_0k",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/905/231/source_79F13C7A-F38D-4ACC-B2E6-E71184003302TheIncredibles_Trailer2_1090802243828_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/0b6855726901ce15.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/8d6b1ce42e282288.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/310025cd7375bfc4.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Брэд Бёрд",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/ca8c912715af56fd.jpg"
+      },
+      {
+        "name": "Крэйг Т. Нельсон",
+        "role": "Озвучка",
+        "photo": "/assets/details/people/cc79f5497ed51ab3.jpg"
+      },
+      {
+        "name": "Холли Хантер",
+        "role": "Озвучка",
+        "photo": "/assets/details/people/c0a101ee798ec1d0.jpg"
+      },
+      {
+        "name": "Сэмюэл Л. Джексон",
+        "role": "Озвучка",
+        "photo": "/assets/details/people/ebb6146b1a312629.jpg"
+      },
+      {
+        "name": "Джейсон Ли",
+        "role": "Озвучка",
+        "photo": "/assets/details/people/a5fbaa524f0ba8a1.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 2005",
+        "category": "Лучший анимационный фильм",
+        "result": "win"
+      },
+      {
+        "title": "Оскар 2005",
+        "category": "Лучший монтаж звука",
+        "result": "win"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Живые семейные отношения",
+          "query": "тепло"
+        },
+        {
+          "label": "Остроумный сценарий",
+          "query": "юмор"
+        },
+        {
+          "label": "Захватывающая анимация",
+          "query": "красивая картинка"
+        }
+      ],
+      "caveats": [
+        "Есть напряжённые сцены",
+        "Неспешное начало"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/the_incredibles/reviews"
+        },
+        {
+          "label": "At the Movies (Australia)",
+          "url": "http://www.abc.net.au/atthemovies/txt/s1251292.htm"
+        },
+        {
+          "label": "Common Sense Media",
+          "url": "http://www.commonsensemedia.org/movie-reviews/incredibles "
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt0317705/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/the_incredibles"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/The_Incredibles"
+      }
+    ]
+  },
+  "proto-guardians": {
+    "originalTitle": "Guardians of the Galaxy",
+    "genres": [
+      "фантастика",
+      "приключения",
+      "боевик",
+      "фэнтези",
+      "комедия"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "Космический авантюрист Питер Квилл похищает загадочную сферу и становится целью охоты. Неожиданные союзники — Гамора, Дракс, Ракета и Грут — помогают ему понять, насколько опасна находка. Чтобы спасти галактику, одиночкам придётся стать командой.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/a41ab91a8d669141.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/guardians_of_the_galaxy/videos/rBhyDi0wSRfq",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/381/819/2014_GuardiansoftheGalaxy_Trailer2_835780675564_mp4_video_1280x720_3900000_primary_audio_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/5a6a3cf8412073b1.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/e6b1cbffae993ab8.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/041bc59374718739.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Джеймс Ганн",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/75e0e2387a93d692.jpg"
+      },
+      {
+        "name": "Крис Пратт",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/5c851ad9ac770635.jpg"
+      },
+      {
+        "name": "Зои Салдана",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/1537cfeeeb67c4fa.jpg"
+      },
+      {
+        "name": "Дэйв Батиста",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/187aac08e8f6299d.jpg"
+      },
+      {
+        "name": "Вин Дизель",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/b876ab40d78b153b.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 2015",
+        "category": "Лучшие визуальные эффекты",
+        "result": "nomination"
+      },
+      {
+        "title": "Оскар 2015",
+        "category": "Лучший грим и причёски",
+        "result": "nomination"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Химия команды",
+          "query": "химия команды"
+        },
+        {
+          "label": "Запоминающийся саундтрек",
+          "query": "музыка"
+        },
+        {
+          "label": "Юмор и приключения",
+          "query": "юмор"
+        }
+      ],
+      "caveats": [
+        "Знакомая схема блокбастера"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/guardians_of_the_galaxy/reviews"
+        },
+        {
+          "label": "The Times (UK)",
+          "url": "https://www.thetimes.co.uk/article/what-to-watch-on-tv-this-week-3v3xlvf2g"
+        },
+        {
+          "label": "Flavorwire",
+          "url": "http://flavorwire.com/470222/guardians-of-the-galaxy-and-marvels-third-act-problem"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt2015381/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/guardians_of_the_galaxy"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Guardians_of_the_Galaxy_%28film%29"
+      }
+    ]
+  },
+  "proto-hancock": {
+    "originalTitle": "Hancock",
+    "genres": [
+      "боевик",
+      "комедия",
+      "фэнтези"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "Хэнкок обладает сверхсилой, но его попытки спасать людей обычно заканчиваются разрушениями и скандалами. Спасённый им специалист по связям с общественностью предлагает исправить репутацию героя. За этим простым планом скрывается история, о которой Хэнкок предпочёл бы не вспоминать.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/769c96713ca509d7.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/hancock/videos/BY2Viebz_VeH",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/48/407/source_72AF5066-834A-4F9F-8C68-BACEB08E988EHancock_1618179651575_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/a127644e9b95d8bb.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/3d173c3b6f3ccbe4.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/6a9b65f8f8e125c6.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Питер Берг",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/b0a1ce56a649a2b7.jpg"
+      },
+      {
+        "name": "Уилл Смит",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/978d04c0dd37abea.jpg"
+      },
+      {
+        "name": "Шарлиз Терон",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/49e4adc92be47cf5.jpg"
+      },
+      {
+        "name": "Джейсон Бейтман",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/afae95f9a3763d15.jpg"
+      },
+      {
+        "name": "Эдди Марсан",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/8762632dfa5839d2.jpg"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Необычный супергерой",
+          "query": "необычный супергерой"
+        },
+        {
+          "label": "Обаяние Уилла Смита",
+          "query": "яркие актёры"
+        }
+      ],
+      "caveats": [
+        "Резкая смена тона",
+        "Неровный сюжет"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/hancock/reviews"
+        },
+        {
+          "label": "Outlook",
+          "url": "https://www.outlookindia.com/magazine/story/hancock/238028"
+        },
+        {
+          "label": "Guardian",
+          "url": "http://film.guardian.co.uk/News_Story/Critic_Review/Guardian_review/0,,2287496,00.html"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt0448157/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/hancock"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Hancock_%28film%29"
+      }
+    ]
+  },
+  "proto-strange": {
+    "originalTitle": "Doctor Strange",
+    "genres": [
+      "боевик",
+      "приключения",
+      "фэнтези"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "Блестящий нейрохирург Стивен Стрэндж теряет возможность оперировать после аварии. Поиск исцеления приводит его к древнему искусству магии. Вместо прежней карьеры ему открывается мир, в котором придётся защищать саму реальность.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/90b881f7d15b82f5.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/doctor_strange_2016/videos/ajOSxa6lHBKb",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/66/211/DoctorStrange_Trailer2_774250051715_mp4_video_1280x720_3900000_primary_audio_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/f2558862ebc6166a.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/cb9b3e2f13988ebf.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/7e3ba698a14bf17d.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Скотт Дерриксон",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/1290f75c250037f1.jpg"
+      },
+      {
+        "name": "Бенедикт Камбербэтч",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/389fb2e97d48d26f.jpg"
+      },
+      {
+        "name": "Чиветел Эджиофор",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/cc70dafe9078392a.jpg"
+      },
+      {
+        "name": "Рэйчел Макадамс",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/271d7c38b2976cb7.jpg"
+      },
+      {
+        "name": "Бенедикт Вонг",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/ce2d922f8d50690e.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 2017",
+        "category": "Лучшие визуальные эффекты",
+        "result": "nomination"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Головокружительные визуальные эффекты",
+          "query": "красивая картинка"
+        },
+        {
+          "label": "Юмор Камбербэтча",
+          "query": "юмор"
+        }
+      ],
+      "caveats": [
+        "Знакомая история становления героя"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/doctor_strange_2016/reviews"
+        },
+        {
+          "label": "Globe and Mail",
+          "url": "http://www.theglobeandmail.com/arts/film/doctor-strange-is-a-tired-film-that-revels-in-whitewashing/article32648098/"
+        },
+        {
+          "label": "TIME Magazine",
+          "url": "http://time.com/4555486/doctor-strange-review-benedict-cumberbatch/"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt1211837/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/doctor_strange_2016"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Doctor_Strange_%282016_film%29"
+      }
+    ]
+  },
+  "proto-bighero": {
+    "originalTitle": "Big Hero 6",
+    "genres": [
+      "семейный",
+      "комедия",
+      "приключения",
+      "боевик",
+      "фантастика",
+      "анимация"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "Юный изобретатель Хиро Хамада и заботливый робот Бэймакс расследуют загадочные события в Сан-Франсокио. Вместе с друзьями Хиро создаёт команду необычных героев. За технологическим приключением стоит история о дружбе и переживании потери.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/stills/d71938f85791b1f1.jpg",
+        "label": "Трейлер",
+        "url": "https://www.youtube.com/watch?v=z3biFxZIJOQ",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/z3biFxZIJOQ?autoplay=1&rel=0"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/d71938f85791b1f1.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/b6966e19e6c480d4.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/b08b4dceebee54f3.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Дон Холл",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/3cf42e74be13b02b.jpg"
+      },
+      {
+        "name": "Крис Уильямс",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/bd60908b17827e9c.jpg"
+      },
+      {
+        "name": "Райан Поттер",
+        "role": "Озвучка",
+        "photo": "/assets/details/people/635182262efe0557.jpg"
+      },
+      {
+        "name": "Скотт Эдсит",
+        "role": "Озвучка",
+        "photo": "/assets/details/people/8f0cd3e3a5760498.jpg"
+      },
+      {
+        "name": "Ти Джей Миллер",
+        "role": "Озвучка",
+        "photo": "/assets/details/people/3679d934afd2caf0.jpg"
+      },
+      {
+        "name": "Джейми Чон",
+        "role": "Озвучка",
+        "photo": "/assets/details/people/a8867eaaff67b132.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 2015",
+        "category": "Лучший анимационный фильм",
+        "result": "win"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Обаятельный Бэймакс",
+          "query": "обаятельный бэймакс"
+        },
+        {
+          "label": "Динамичные приключения",
+          "query": "движение"
+        },
+        {
+          "label": "Трогательная история",
+          "query": "тепло"
+        }
+      ],
+      "caveats": [
+        "Тема утраты близкого"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/big_hero_6/reviews"
+        },
+        {
+          "label": "Livemint",
+          "url": "https://www.livemint.com/Leisure/DWTIRxnM7LV7eknT7tZdiO/Film-Review--Big-Hero-6.html"
+        },
+        {
+          "label": "Vox",
+          "url": "http://www.vox.com/2014/12/4/7332611/big-hero-6"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt2245084/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/big_hero_6"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Big_Hero_6_%28film%29"
+      }
+    ]
+  },
+  "proto-batman": {
+    "originalTitle": "The Batman",
+    "genres": [
+      "боевик",
+      "приключения",
+      "криминал",
+      "драма"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "На втором году борьбы с преступностью Бэтмен расследует серию убийств влиятельных людей Готэма. Загадочные послания преступника ведут к коррупции, укоренившейся в городе, и заставляют Брюса Уэйна пересмотреть собственное представление о справедливости.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/e49b97359e16644e.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/the_batman/videos/lx9CmrH6IrYj",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/119/558/source_538F8479-28C6-4E82-9FD2-4A534B4032F0TheBatman_Trailer_TheBatandTheCat_1987625539556_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/ada47ac1c8d8ea1f.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/0fa92d45ef1b0c8f.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/bbd165238d73ad16.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Мэтт Ривз",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/7b01c1b6d4454f37.jpg"
+      },
+      {
+        "name": "Роберт Паттинсон",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/b7219c3a032b3045.jpg"
+      },
+      {
+        "name": "Зои Кравиц",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/1b80cc8229582464.jpg"
+      },
+      {
+        "name": "Джеффри Райт",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/342e3c159bd48925.jpg"
+      },
+      {
+        "name": "Колин Фаррелл",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/732ae79d5cf0da0d.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 2023",
+        "category": "Лучшие визуальные эффекты",
+        "result": "nomination"
+      },
+      {
+        "title": "Оскар 2023",
+        "category": "Лучший звук",
+        "result": "nomination"
+      },
+      {
+        "title": "Оскар 2023",
+        "category": "Лучший грим и причёски",
+        "result": "nomination"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Атмосфера криминального нуара",
+          "query": "атмосфера криминального нуара"
+        },
+        {
+          "label": "Детективная линия",
+          "query": "детективная линия"
+        },
+        {
+          "label": "Мрачный Готэм",
+          "query": "мрачный готэм"
+        }
+      ],
+      "caveats": [
+        "Размеренный темп",
+        "Почти три часа"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/the_batman/reviews"
+        },
+        {
+          "label": "iNews.co.uk",
+          "url": "https://inews.co.uk/culture/film/the-batman-review-robert-pattinson-zoe-kravitz-1489293"
+        },
+        {
+          "label": "HuffPost",
+          "url": "https://www.huffpost.com/entry/the-batman-reimagines-him-stripped-of-his-douchiness-review_n_621fd643e4b018aad3c2696f"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt1877830/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/the_batman"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/The_Batman_%28film%29"
+      }
+    ]
+  },
+  "proto-knives": {
+    "originalTitle": "Knives Out",
+    "genres": [
+      "триллер",
+      "криминал",
+      "драма",
+      "комедия"
+    ],
+    "countries": [
+      "США"
+    ],
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/6abf4ff99fe533a4.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/knives_out/videos/AdLF2zYUJHSU",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/655/3/source_F94B9861-BEC8-4F36-8F55-4E3974E05D9EKnivesOut_Trailer_BigReveal_1631929411864_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/2ec4585c6714a015.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/a57761002438c8d4.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/a43fb9803da8d7fb.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Райан Джонсон",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/63308095f577e843.jpg"
+      },
+      {
+        "name": "Дэниел Крэйг",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/df2cf40a3a3373b8.jpg"
+      },
+      {
+        "name": "Крис Эванс",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/73b887f892102852.jpg"
+      },
+      {
+        "name": "Ана де Армас",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/2231b1f4366b71d9.jpg"
+      },
+      {
+        "name": "Джейми Ли Кёртис",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/9b54f341f3a79f4e.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 2020",
+        "category": "Лучший оригинальный сценарий",
+        "result": "nomination"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Закрученная загадка",
+          "query": "интрига"
+        },
+        {
+          "label": "Актёрский ансамбль",
+          "query": "яркие актёры"
+        },
+        {
+          "label": "Юмор и ирония",
+          "query": "юмор"
+        }
+      ],
+      "caveats": [
+        "Много разговоров",
+        "История длиннее двух часов"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/knives_out/reviews"
+        },
+        {
+          "label": "leonardmaltin.com",
+          "url": "https://leonardmaltin.com/knives-out-a-sharp-blend-of-comedy-and-whodunit/"
+        },
+        {
+          "label": "Associated Press",
+          "url": "https://apnews.com/5594211ac103426a988e469a020c74ce"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Проверить просмотр на Кинопоиске",
+        "url": "https://www.kinopoisk.ru/film/1188529/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/knives_out"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Knives_Out"
+      }
+    ]
+  },
+  "proto-sherlock": {
+    "originalTitle": "Sherlock Holmes",
+    "genres": [
+      "боевик",
+      "приключения",
+      "триллер"
+    ],
+    "countries": [
+      "США",
+      "Великобритания",
+      "Германия"
+    ],
+    "synopsis": "Холмс и доктор Ватсон сталкиваются с делом лорда Блэквуда, чья история кажется связанной с тёмной магией. Расследование ведёт их через викторианский Лондон, опасные заговоры и эффектные поединки. Холмсу предстоит найти рациональное объяснение невозможному.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/5c4dc799c9977d0c.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/sherlock_holmes_2009/videos/l12hHUuJMBw3",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/516/418/source_C94E2B78-249D-4C36-8D1A-5F986E7D1AEBsherlockholmes_1813015107719_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/97a286026bc86a2d.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/895dce28d39ca595.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/b6002a1d164d29e5.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Гай Ричи",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/0fe738ef791bb1cf.jpg"
+      },
+      {
+        "name": "Роберт Дауни-младший",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/9045a745dd73a963.jpg"
+      },
+      {
+        "name": "Джуд Лоу",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/5a7e74cdc33ab6c5.jpg"
+      },
+      {
+        "name": "Рэйчел Макадамс",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/271d7c38b2976cb7.jpg"
+      },
+      {
+        "name": "Марк Стронг",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/29f23199bc5bd712.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 2010",
+        "category": "Лучшая музыка",
+        "result": "nomination"
+      },
+      {
+        "title": "Оскар 2010",
+        "category": "Лучшая работа художника-постановщика",
+        "result": "nomination"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Дуэт Холмса и Ватсона",
+          "query": "яркие актёры"
+        },
+        {
+          "label": "Зрелищный Лондон",
+          "query": "движение"
+        },
+        {
+          "label": "Харизма Дауни-младшего",
+          "query": "яркие актёры"
+        }
+      ],
+      "caveats": [
+        "Экшен важнее расследования",
+        "Неровный сценарий"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/sherlock_holmes_2009/reviews"
+        },
+        {
+          "label": "The Indian Express",
+          "url": "http://archive.indianexpress.com/news/sherlock-holmes/565335/0"
+        },
+        {
+          "label": "The Atlantic",
+          "url": "https://www.theatlantic.com/entertainment/archive/2009/12/a-different-way-holmes/32678/"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt0988045/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/sherlock_holmes_2009"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Sherlock_Holmes_%282009_film%29"
+      }
+    ]
+  },
+  "proto-inception": {
+    "originalTitle": "Inception",
+    "genres": [
+      "фантастика",
+      "триллер",
+      "боевик"
+    ],
+    "countries": [
+      "США",
+      "Великобритания"
+    ],
+    "synopsis": "Дом Кобб умеет проникать в чужие сны и похищать секреты. Новое задание требует обратного: незаметно внедрить человеку идею. Команда строит несколько уровней сна, но воспоминания самого Кобба ставят под угрозу всю операцию.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/0f7bd6407757c18e.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/inception/videos/Fe35v5adCCgL",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/783/639/source_08E5C07A-36B8-4EE2-844C-6B6654CBF230inception_1783239235533_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/ddf3b272398cb97a.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/4f697181f790e7d3.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/bfe0541099480544.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Кристофер Нолан",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/200339b82fbefbf6.jpg"
+      },
+      {
+        "name": "Леонардо ДиКаприо",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/7057a59d2c1f0e38.jpg"
+      },
+      {
+        "name": "Джозеф Гордон-Левитт",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/377f8db89b02ff9d.jpg"
+      },
+      {
+        "name": "Эллиот Пейдж",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/985f958e63a3cb58.jpg"
+      },
+      {
+        "name": "Том Харди",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/449d93c84035dc22.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 2011",
+        "category": "Лучшие визуальные эффекты",
+        "result": "win"
+      },
+      {
+        "title": "Оскар 2011",
+        "category": "Лучшая операторская работа",
+        "result": "win"
+      },
+      {
+        "title": "Оскар 2011",
+        "category": "Лучший звук",
+        "result": "win"
+      },
+      {
+        "title": "Оскар 2011",
+        "category": "Лучший монтаж звука",
+        "result": "win"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Оригинальная идея",
+          "query": "оригинальная идея"
+        },
+        {
+          "label": "Многослойная интрига",
+          "query": "интрига"
+        },
+        {
+          "label": "Зрелищные сцены",
+          "query": "движение"
+        }
+      ],
+      "caveats": [
+        "Требует внимания",
+        "Много объяснений правил"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/inception/reviews"
+        },
+        {
+          "label": "The Times (UK)",
+          "url": "https://www.thetimes.co.uk/article/whats-on-tv-and-radio-tonight-wednesday-march-20-3wg7jpprw"
+        },
+        {
+          "label": "Autostraddle",
+          "url": "https://www.autostraddle.com/category/arts-and-entertainment/"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt1375666/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/inception"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Inception"
+      }
+    ]
+  },
+  "proto-pulp": {
+    "originalTitle": "Pulp Fiction",
+    "genres": [
+      "криминал",
+      "драма",
+      "комедия"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "Истории двух наёмных убийц, жены криминального босса и боксёра переплетаются в Лос-Анджелесе. Бытовые разговоры соседствуют с внезапным насилием, а хронология складывается в мозаику неожиданных совпадений.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/07d8e6d6b15f3aff.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/pulp_fiction/videos/RD3ARhN4tQnr",
+        "videoUrl": "https://video.fandango.com/MPX/mezzanine/NBCU_Fandango/753/219/source_EE8B4D27-DCA7-4DEA-9184-D84C1CB62062PulpFiction_Trailer1.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/7b4a45fe6d98a06a.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/738e1f836c6a7ae7.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/3679ae7193400d21.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Квентин Тарантино",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/00e71c07600aef01.jpg"
+      },
+      {
+        "name": "Джон Траволта",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/687f781db3edd5bf.jpg"
+      },
+      {
+        "name": "Сэмюэл Л. Джексон",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/ebb6146b1a312629.jpg"
+      },
+      {
+        "name": "Ума Турман",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/0208bfb7ae750d5e.jpg"
+      },
+      {
+        "name": "Харви Кейтель",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/4173e561796f4b69.jpg"
+      }
+    ],
+    "awards": [
+      {
+        "title": "Оскар 1995",
+        "category": "Лучший оригинальный сценарий",
+        "result": "win"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Запоминающиеся диалоги",
+          "query": "запоминающиеся диалоги"
+        },
+        {
+          "label": "Необычная структура",
+          "query": "необычная структура"
+        },
+        {
+          "label": "Сильные актёрские работы",
+          "query": "яркие актёры"
+        }
+      ],
+      "caveats": [
+        "Жестокость и грубая лексика",
+        "Сюжет идёт не по порядку"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/pulp_fiction/reviews"
+        },
+        {
+          "label": "The Times (UK)",
+          "url": "https://www.thetimes.com/culture/film/article/pulp-fiction-1994-review-changed-cinema-classic-056kl6fmw"
+        },
+        {
+          "label": "Chicago Sun-Times",
+          "url": "https://www.rogerebert.com/reviews/pulp-fiction-1994"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt0110912/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/pulp_fiction"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Pulp_Fiction"
+      }
+    ]
+  },
+  "proto-nice": {
+    "originalTitle": "The Nice Guys",
+    "genres": [
+      "боевик",
+      "комедия",
+      "триллер"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "Неудачливый частный детектив Холланд Марч и наёмный громила Джексон Хили вынуждены работать вместе. Поиски пропавшей девушки выводят их на опасный заговор в Лос-Анджелесе семидесятых. Их методы несовместимы, но поодиночке у них ещё меньше шансов.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/4d3fbcdf0e5454f9.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/the_nice_guys/videos/3Yxe0cmJ4pqo",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/365/223/TheNiceGuys_TRAILER3_680075331880_mp4_video_1280x720_3900000_primary_audio_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/7bf5731d558bf603.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/678f94a630012b00.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/4e556b93796bd085.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Шейн Блэк",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/fad956171d7aded5.jpg"
+      },
+      {
+        "name": "Рассел Кроу",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/f955714b363fa57a.jpg"
+      },
+      {
+        "name": "Райан Гослинг",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/3a67f295f8f35cc8.jpg"
+      },
+      {
+        "name": "Энгаури Райс",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/f0f9873977c077f9.jpg"
+      },
+      {
+        "name": "Мэтт Бомер",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/bdb1cf7726e4b357.jpg"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Дуэт Гослинга и Кроу",
+          "query": "яркие актёры"
+        },
+        {
+          "label": "Чёрный юмор",
+          "query": "юмор"
+        },
+        {
+          "label": "Атмосфера семидесятых",
+          "query": "ностальгия"
+        }
+      ],
+      "caveats": [
+        "Нарочито запутанный сюжет",
+        "Юмор для взрослых"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/the_nice_guys/reviews"
+        },
+        {
+          "label": "BBC.com",
+          "url": "https://youtu.be/LBaHFDtUlzA"
+        },
+        {
+          "label": "The Ringer",
+          "url": "https://www.theringer.com/authors/k-austin-collins/archives/7?source=---------7"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt3799694/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/the_nice_guys"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/The_Nice_Guys"
+      }
+    ]
+  },
+  "proto-clue": {
+    "originalTitle": "Clue",
+    "genres": [
+      "триллер",
+      "комедия"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "Шестеро незнакомцев получают приглашение на ужин в особняк. Когда появляется первое тело, гости и дворецкий пытаются понять, кто убийца. Фильм превращает настольную детективную игру в стремительный фарс с несколькими возможными развязками.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/ac6bd17fe9497a3e.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/clue/videos/cf1MnBiyi9ib",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/940/498/source_15C7B894-53E1-4A95-86A8-24DE161FA062Clue_Trailer1_1216459843752_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/84fbdf368b57a666.jpg",
+        "label": "Кадр из фильма · 1"
+      }
+    ],
+    "people": [
+      {
+        "name": "Джонатан Линн",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/1e70425fe0676765.jpg"
+      },
+      {
+        "name": "Айлин Бреннан",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/34b7bb64c58e5c01.jpg"
+      },
+      {
+        "name": "Мартин Малл",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/138b8ef180e99f65.jpg"
+      },
+      {
+        "name": "Лесли Энн Уоррен",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/d10572d82ead3244.jpg"
+      },
+      {
+        "name": "Тим Карри",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/4daae204d8269ce0.jpg"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Яркий актёрский ансамбль",
+          "query": "яркие актёры"
+        },
+        {
+          "label": "Комедийный хаос",
+          "query": "юмор"
+        }
+      ],
+      "caveats": [
+        "Гротескный юмор на любителя",
+        "Легко запутаться в событиях"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/clue/reviews"
+        },
+        {
+          "label": "Washington Post",
+          "url": "https://www.washingtonpost.com/archive/lifestyle/1985/12/13/movies/ae6b6e7b-602b-4540-8cd7-b50620a3670d/?utm_term=.08a5369d85ec"
+        },
+        {
+          "label": "Los Angeles Times",
+          "url": "http://articles.latimes.com/1985-12-13/entertainment/ca-16858_1_clue-as-whodunit-spoof"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt0088930/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/clue"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Clue_%28film%29"
+      }
+    ]
+  },
+  "proto-enola": {
+    "originalTitle": "Enola Holmes",
+    "genres": [
+      "триллер",
+      "боевик",
+      "приключения",
+      "криминал"
+    ],
+    "countries": [
+      "США",
+      "Великобритания"
+    ],
+    "synopsis": "Младшая сестра Шерлока Холмса отправляется в Лондон искать исчезнувшую мать. Братья хотят вернуть Энолу к привычным правилам, но она выбирает самостоятельность и собственное расследование. По дороге ей приходится помочь юному беглецу.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/stills/51b311ec26b922b8.jpg",
+        "label": "Трейлер",
+        "url": "https://www.youtube.com/watch?v=1d0Zf9sXlHk",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/1d0Zf9sXlHk?autoplay=1&rel=0"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/51b311ec26b922b8.jpg",
+        "label": "Кадр из фильма · 1"
+      }
+    ],
+    "people": [
+      {
+        "name": "Гарри Брэдбир",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/58f0eabbf5a4bcd1.jpg"
+      },
+      {
+        "name": "Милли Бобби Браун",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/166582e2379258fc.jpg"
+      },
+      {
+        "name": "Сэм Клафлин",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/965b39b68632da86.jpg"
+      },
+      {
+        "name": "Генри Кавилл",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/c84f4ed83f9d121f.jpg"
+      },
+      {
+        "name": "Хелена Бонэм Картер",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/86f5dae0f6d774fa.jpg"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Обаяние Милли Бобби Браун",
+          "query": "яркие актёры"
+        },
+        {
+          "label": "Лёгкое приключение",
+          "query": "движение"
+        },
+        {
+          "label": "Энергичная героиня",
+          "query": "движение"
+        }
+      ],
+      "caveats": [
+        "Несложная детективная загадка",
+        "Частые обращения к зрителю"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/enola_holmes/reviews"
+        },
+        {
+          "label": "Entertainment Weekly",
+          "url": "https://ew.com/movies/movie-reviews/enola-holmes-review-netflix/"
+        },
+        {
+          "label": "Daily Telegraph (UK)",
+          "url": "https://www.telegraph.co.uk/films/0/enola-holmes-review-sherlock-meets-fleabag-zippy-conan-doyle/"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt7846844/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/enola_holmes"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Enola_Holmes_%28film%29"
+      }
+    ]
+  },
+  "proto-thor": {
+    "originalTitle": "Thor: Ragnarok",
+    "genres": [
+      "боевик",
+      "приключения",
+      "фантастика",
+      "фэнтези",
+      "комедия"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "Тор оказывается на далёкой планете без своего молота и вынужден участвовать в гладиаторских боях. Неожиданная встреча с Халком даёт шанс вернуться домой. Пока герой ищет выход, Хела готовится уничтожить привычный мир Асгарда.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/stills/ac6b2a2e58642371.jpg",
+        "label": "Трейлер",
+        "url": "https://www.youtube.com/watch?v=ue80QwXMRHg",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/ue80QwXMRHg?autoplay=1&rel=0"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/ac6b2a2e58642371.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/fddf4cbed95f3972.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/453ff245f867a40c.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Тайка Вайтити",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/82577cb2713f2dcf.jpg"
+      },
+      {
+        "name": "Крис Хемсворт",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/1398b73873eb7ed8.jpg"
+      },
+      {
+        "name": "Том Хиддлстон",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/1def64fa02275104.jpg"
+      },
+      {
+        "name": "Кейт Бланшетт",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/3dec75f0ceb74d66.jpg"
+      },
+      {
+        "name": "Идрис Эльба",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/c4de26030e3841d1.jpg"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Много юмора",
+          "query": "юмор"
+        },
+        {
+          "label": "Яркий космический мир",
+          "query": "яркий космический мир"
+        },
+        {
+          "label": "Энергичная постановка",
+          "query": "движение"
+        }
+      ],
+      "caveats": [
+        "Резкая смена тона серии"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/thor_ragnarok_2017/reviews"
+        },
+        {
+          "label": "Film Comment Magazine",
+          "url": "https://www.filmcomment.com/blog/film-week-thor-ragnarok/"
+        },
+        {
+          "label": "Culturess",
+          "url": "https://culturess.com/2017/11/02/thor-ragnarok-rollicking-good-time/"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt3501632/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/thor_ragnarok_2017"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Thor%3A_Ragnarok"
+      }
+    ]
+  },
+  "proto-shazam": {
+    "originalTitle": "Shazam!",
+    "genres": [
+      "боевик",
+      "приключения",
+      "комедия",
+      "фэнтези"
+    ],
+    "countries": [
+      "США"
+    ],
+    "synopsis": "Подросток Билли Бэтсон получает возможность превращаться во взрослого супергероя, произнося слово «Шазам». Вместе с другом он испытывает новые способности. Детские эксперименты быстро заканчиваются, когда появляется противник, которому нужна его сила.",
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/faba6546d44c6c42.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/shazam/videos/5TbSxTxtHP3d",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/30/118/source_E5C37129-87B5-486A-82AB-11343C6E339Bshazam_trailer2_1451729987969_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/0cd783d7285358f2.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/8307dca2ade2ee7a.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/411b11695902b0f5.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Дэвид Ф. Сандберг",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/49b1647d5995dd42.jpg"
+      },
+      {
+        "name": "Закари Ливай",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/4054ee135fb566ae.jpg"
+      },
+      {
+        "name": "Марк Стронг",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/29f23199bc5bd712.jpg"
+      },
+      {
+        "name": "Эшер Энджел",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/b94f2ed36f0c8f44.jpg"
+      },
+      {
+        "name": "Джек Дилан Грейзер",
+        "role": "В главных ролях",
+        "photo": "/assets/details/people/5254b7fbfa6caa14.jpg"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Добрый семейный тон",
+          "query": "тепло"
+        },
+        {
+          "label": "Остроумное освоение суперсил",
+          "query": "юмор"
+        },
+        {
+          "label": "Обаяние героя",
+          "query": "яркие актёры"
+        }
+      ],
+      "caveats": [
+        "Простой сюжет",
+        "Есть пугающие сцены"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/shazam/reviews"
+        },
+        {
+          "label": "Chicago Reader",
+          "url": "https://www.chicagoreader.com/chicago/shazam/Film?oid=69027910"
+        },
+        {
+          "label": "FilmWeek (LAist)",
+          "url": "https://www.scpr.org/programs/filmweek/2019/04/05/64357/filmweek-pet-sematary-amazing-grace-shazam-and-mor/"
+        }
+      ]
+    },
+    "links": [
+      {
+        "label": "Карточка фильма на IMDb",
+        "url": "https://www.imdb.com/title/tt0448115/"
+      }
+    ],
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/shazam"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Shazam%21_%28film%29"
+      }
+    ]
+  },
+  "6553389": {
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/1f94bd2c6e54934b.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/nouvelle_vague_2025/videos/_ouT5U8Iu_1D",
+        "videoUrl": "https://video.fandango.com/MPX/mezzanine/NBCU_Fandango/71/455/source_3E0A5C06-EAA6-49E8-8853-572C3B3BB623NouvelleVague_Trailer.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/e268f8e74b4369ca.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/f703b31a76c9a377.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/393b260a18883dec.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ричард Линклейтер",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/fbecbd79fcf3de02.jpg"
+      },
+      {
+        "name": "Гийом Марбек",
+        "role": "Жан-Люк Годар"
+      },
+      {
+        "name": "Зои Дойч",
+        "role": "Джин Сиберг",
+        "photo": "/assets/details/people/3dc27598ad9292ae.jpg"
+      },
+      {
+        "name": "Обри Дюллен",
+        "role": "Жан-Поль Бельмондо"
+      },
+      {
+        "name": "Адриен Руйяр",
+        "role": "Франсуа Трюффо"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Атмосфера французской новой волны",
+          "query": "атмосфера французской новой волны"
+        },
+        {
+          "label": "Любовь к кино",
+          "query": "любовь к кино"
+        },
+        {
+          "label": "Точный актёрский ансамбль",
+          "query": "яркие актёры"
+        }
+      ],
+      "caveats": [
+        "Много разговоров о кино",
+        "Скорее признание в любви, чем анализ"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/nouvelle_vague_2025/reviews"
+        },
+        {
+          "label": "Irish Times",
+          "url": "https://www.irishtimes.com/culture/film/review/2026/01/29/nouvelle-vague-review-richard-linklaters-love-letter-to-an-iconic-era-of-french-cinema/"
+        },
+        {
+          "label": "Observer (UK)",
+          "url": "https://observer.co.uk/culture/film/article/richard-linklaters-nouvelle-vague-is-a-beautiful-portrait-of-a-turning-point-in-cinema"
+        }
+      ]
+    },
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/nouvelle_vague_2025"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Nouvelle_Vague_%282025_film%29"
+      }
+    ]
+  },
+  "1040690": {
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/4aa3eee8647c1398.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/mid90s/videos/ZkkLF8pgaRkI",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/414/643/source_24034338-5637-4200-B888-2EF640105958mid90s_trailer2_1328654915611_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/2f12980b4bca2688.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/ac02439cea6dadc1.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/dbf4a8b9c0057bec.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Джона Хилл",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/74741bca4a9ac509.jpg"
+      },
+      {
+        "name": "Санни Сулджик",
+        "role": "Стиви",
+        "photo": "/assets/details/people/55163b1431353545.jpg"
+      },
+      {
+        "name": "Кэтрин Уотерстон",
+        "role": "Дэбни, мать Стиви"
+      },
+      {
+        "name": "Лукас Хеджес",
+        "role": "Иэн, старший брат Стиви",
+        "photo": "/assets/details/people/d0ad2d4bc468cce6.jpg"
+      },
+      {
+        "name": "На-Кел Смит",
+        "role": "Рэй"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Ностальгическая атмосфера",
+          "query": "ностальгия"
+        },
+        {
+          "label": "Естественные герои",
+          "query": "естественные герои"
+        },
+        {
+          "label": "Игра Санни Сулджика",
+          "query": "яркие актёры"
+        }
+      ],
+      "caveats": [
+        "Мало сюжетных событий",
+        "Подростковая грубость"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/mid90s/reviews"
+        },
+        {
+          "label": "Chicago Reader",
+          "url": "https://www.chicagoreader.com/chicago/mid90s/Film?oid=59680252"
+        },
+        {
+          "label": "Observer (UK)",
+          "url": "https://www.theguardian.com/film/2019/apr/13/mid-90s-review-jonah-hill"
+        }
+      ]
+    },
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/mid90s"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Mid90s"
+      }
+    ]
+  },
+  "714248": {
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/stills/c413390998567068.jpg",
+        "label": "Трейлер",
+        "url": "https://www.youtube.com/watch?v=HgbXWt8kM5Q",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/HgbXWt8kM5Q?autoplay=1&rel=0"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/c413390998567068.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/3c7d5c629c469680.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/6d3cf804522fb82e.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Томм Мур",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/d5db1680b18d3a47.jpg"
+      },
+      {
+        "name": "Дэвид Роул",
+        "role": "Бен",
+        "photo": "/assets/details/people/78c340ecbc38c489.jpg"
+      },
+      {
+        "name": "Люси О’Коннелл",
+        "role": "Сирша (Saoirse)"
+      },
+      {
+        "name": "Брендан Глисон",
+        "role": "Конор / Мак Лир",
+        "photo": "/assets/details/people/558f1d10119e1fa0.jpg"
+      },
+      {
+        "name": "Фионнула Флэнаган",
+        "role": "Бабушка / Маха",
+        "photo": "/assets/details/people/0b8f399530e1eea0.jpg"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Рисованная красота",
+          "query": "красивая картинка"
+        },
+        {
+          "label": "Ирландский фольклор",
+          "query": "ирландский фольклор"
+        },
+        {
+          "label": "Трогательная семейная история",
+          "query": "тепло"
+        }
+      ],
+      "caveats": [
+        "Темы утраты и печали"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/song_of_the_sea_2014/reviews"
+        },
+        {
+          "label": "Sight & Sound",
+          "url": "https://www.bfi.org.uk/news-opinion/sight-sound-magazine/reviews-recommendations/toon-week-song-sea"
+        },
+        {
+          "label": "Observer (UK)",
+          "url": "http://www.theguardian.com/film/2015/jul/12/song-of-the-sea-review"
+        }
+      ]
+    },
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/song_of_the_sea_2014"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Song_of_the_Sea_%282014_film%29"
+      }
+    ]
+  },
+  "425": {
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/stills/95a8a8e86bf7695a.jpg",
+        "label": "Трейлер",
+        "url": "https://www.criterionchannel.com/the-seventh-seal/videos/the-seventh-seal-trailer"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/95a8a8e86bf7695a.jpg",
+        "label": "Кадр из фильма · 1"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ингмар Бергман",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/f281abf06e1e07a8.jpg"
+      },
+      {
+        "name": "Макс фон Сюдов",
+        "role": "Антониус Блок",
+        "photo": "/assets/details/people/77d1a428261b9a5e.jpg"
+      },
+      {
+        "name": "Гуннар Бьёрнстранд",
+        "role": "Йёнс, оруженосец",
+        "photo": "/assets/details/people/b177da65954ce5d8.jpg"
+      },
+      {
+        "name": "Бенгт Экерут",
+        "role": "Смерть",
+        "photo": "/assets/details/people/68ce9bf1bbd75b6f.jpg"
+      },
+      {
+        "name": "Нильс Поппе",
+        "role": "Юф",
+        "photo": "/assets/details/people/24dcfe8b774d0d4c.jpg"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Выразительные образы",
+          "query": "выразительные образы"
+        },
+        {
+          "label": "Философская глубина",
+          "query": "подумать"
+        },
+        {
+          "label": "Необычная драматургия",
+          "query": "необычная драматургия"
+        }
+      ],
+      "caveats": [
+        "Тяжёлые вопросы о смерти",
+        "Аллегории требуют внимания"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/seventh_seal/reviews"
+        },
+        {
+          "label": "Village Voice",
+          "url": "https://news.google.com/newspapers?id=sNpHAAAAIBAJ&sjid=NYwDAAAAIBAJ&pg=6265%2C3780759"
+        },
+        {
+          "label": "Guardian",
+          "url": "https://www.theguardian.com/film/1958/mar/08/world.mainsection"
+        }
+      ]
+    },
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/seventh_seal"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/The_Seventh_Seal"
+      }
+    ]
+  },
+  "425400": {
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/stills/b90db992e16f3935.jpg",
+        "label": "Трейлер",
+        "url": "https://www.youtube.com/watch?v=XJ69WnwvZhE",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/XJ69WnwvZhE?autoplay=1&rel=0"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/b90db992e16f3935.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/5958850b3c772672.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/9159d726d57269ee.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Дени Вильнёв",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/e060305178239566.jpg"
+      },
+      {
+        "name": "Лубна Азабаль",
+        "role": "Наваль Марван",
+        "photo": "/assets/details/people/89829bc41bbef5dd.jpg"
+      },
+      {
+        "name": "Мелисса Дезормо-Пулен",
+        "role": "Жанна Марван",
+        "photo": "/assets/details/people/9173e5c44f373090.jpg"
+      },
+      {
+        "name": "Максим Годетт",
+        "role": "Симон Марван",
+        "photo": "/assets/details/people/4480a2a9bbfd4f71.jpg"
+      },
+      {
+        "name": "Реми Жирар",
+        "role": "Жан Лебель, нотариус",
+        "photo": "/assets/details/people/a3605f4be65e62f8.jpg"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Сильная актёрская игра",
+          "query": "яркие актёры"
+        },
+        {
+          "label": "Эмоциональное воздействие",
+          "query": "эмоциональное воздействие"
+        },
+        {
+          "label": "Напряжённое расследование",
+          "query": "интрига"
+        }
+      ],
+      "caveats": [
+        "Тяжёлые события",
+        "Мелодраматичность"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/incendies/reviews"
+        },
+        {
+          "label": "Sight & Sound",
+          "url": "http://old.bfi.org.uk/sightandsound/review/6296"
+        },
+        {
+          "label": "News of the World",
+          "url": "http://www.newsoftheworld.co.uk/notw/nol_showbiz/nolcelebrity_movies/1333085/Review-of-Denis-Villeneuves-Incendies.html"
+        }
+      ]
+    },
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/incendies"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/Incendies"
+      }
+    ]
+  },
+  "5237750": {
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/stills/e25f9c79a15f0033.jpg",
+        "label": "Трейлер",
+        "url": "https://www.youtube.com/watch?v=OlUGOz3h4W8",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/OlUGOz3h4W8?autoplay=1&rel=0"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/e25f9c79a15f0033.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/70fe9c607d72985d.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/161b9c3a60685151.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Любовь Борисова",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/4656ee9d83ab461c.jpg"
+      },
+      {
+        "name": "Дариус Гумаускас",
+        "role": "Иван Попов",
+        "photo": "/assets/details/people/cfc9aceff3912efa.jpg"
+      },
+      {
+        "name": "Александр Чичахов",
+        "role": "Степан Бересеков",
+        "photo": "/assets/details/people/4f07957124a69353.jpg"
+      },
+      {
+        "name": "Михаил Сажин",
+        "role": "Николай Попов"
+      },
+      {
+        "name": "Вячеслав Югов",
+        "role": "отец Василий"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Тёплый юмор",
+          "query": "юмор"
+        },
+        {
+          "label": "Свет и пейзажи Якутии",
+          "query": "красивая картинка"
+        },
+        {
+          "label": "Дружба двух героев",
+          "query": "тепло"
+        }
+      ],
+      "caveats": [
+        "Неторопливое путешествие",
+        "Якутский язык с субтитрами"
+      ],
+      "sources": [
+        {
+          "label": "КиноТВ — Алексей Филиппов",
+          "url": "https://kinotv.ru/read/retsenzii/ne-khoronite-menya-bez-ivana-yakutskaya-komediya-ob-uvazhenii-k-chudesam/"
+        },
+        {
+          "label": "Кинопоиск — отзывы зрителей",
+          "url": "https://www.kinopoisk.ru/film/5237750/reviews/"
+        }
+      ]
+    },
+    "detailSources": [
+      {
+        "label": "Карточка и фотографии — Киноафиша",
+        "url": "https://www.kinoafisha.info/movies/8368766/"
+      }
+    ]
+  },
+  "225011": {
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/stills/4926ebc8c682fa8f.jpg",
+        "label": "Трейлер",
+        "url": "https://start.ru/watch/izgnanie/trailers/79292"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/4926ebc8c682fa8f.jpg",
+        "label": "Кадр из фильма · 1"
+      }
+    ],
+    "people": [
+      {
+        "name": "Андрей Звягинцев",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/1fe4746c5e981b77.jpg"
+      },
+      {
+        "name": "Константин Лавроненко",
+        "role": "Алекс",
+        "photo": "/assets/details/people/68c4f6a2bdf40a53.jpg"
+      },
+      {
+        "name": "Мария Бонневи",
+        "role": "Вера",
+        "photo": "/assets/details/people/214d450d8057800c.jpg"
+      },
+      {
+        "name": "Александр Балуев",
+        "role": "Марк"
+      },
+      {
+        "name": "Дмитрий Ульянов",
+        "role": "Роберт"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Красота кадра",
+          "query": "красивая картинка"
+        },
+        {
+          "label": "Актёрская игра",
+          "query": "яркие актёры"
+        },
+        {
+          "label": "Атмосфера недосказанности",
+          "query": "атмосфера недосказанности"
+        }
+      ],
+      "caveats": [
+        "Очень медленный темп",
+        "Не все вопросы получают ответ"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/the_banishment/reviews"
+        },
+        {
+          "label": "New York Times",
+          "url": "https://www.nytimes.com/2018/01/18/movies/the-banishment-review-andrey-zvyagintsev.html"
+        },
+        {
+          "label": "London Evening Standard",
+          "url": "http://www.thisislondon.co.uk/film/film-23339747-details/The+Banishment/filmReview.do?reviewId=23532489"
+        }
+      ]
+    },
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/the_banishment"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/The_Banishment"
+      }
+    ]
+  },
+  "1259195": {
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/stills/c9506e762f0c961f.jpg",
+        "label": "Трейлер",
+        "url": "https://www.youtube.com/watch?v=NOmiotihS_0",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/NOmiotihS_0?autoplay=1&rel=0"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/c9506e762f0c961f.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/5ea0df1935a43ece.jpg",
+        "label": "Кадр из фильма · 2"
+      }
+    ],
+    "people": [
+      {
+        "name": "Томми Гулликсен",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/6ac7ad41a5a72d12.jpg"
+      },
+      {
+        "name": "Мортен Тровик",
+        "role": "участник, художник и организатор культурного обмена"
+      },
+      {
+        "name": "Хенрик Плахт",
+        "role": "участник, художник"
+      },
+      {
+        "name": "Ник Новак",
+        "role": "участник, художник, работающий со звуком"
+      },
+      {
+        "name": "Кэти Бойд",
+        "role": "участница, театральный режиссёр"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Необычный культурный обмен",
+          "query": "необычный культурный обмен"
+        },
+        {
+          "label": "Абсурдные ситуации",
+          "query": "абсурдные ситуации"
+        },
+        {
+          "label": "Наблюдение за художниками",
+          "query": "наблюдение за художниками"
+        }
+      ],
+      "caveats": [
+        "Специфическая тема современного искусства",
+        "Без простых ответов"
+      ],
+      "sources": [
+        {
+          "label": "Настоящее время — обзор программы Beat Film Festival",
+          "url": "https://www.currenttime.tv/a/new-people-beat-festival/29971859.html"
+        },
+        {
+          "label": "Beat Film Festival — о фильме",
+          "url": "https://beatfilmfestival.ru/movies/war-of-art"
+        }
+      ]
+    },
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/war_of_art"
+      }
+    ]
+  },
+  "1347315": {
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/previews/add093609c4e57f8.jpg",
+        "label": "Трейлер",
+        "url": "https://www.rottentomatoes.com/m/the_booksellers/videos/ItHuMinVBPiA",
+        "videoUrl": "https://video.fandango.com/MPX/video/NBCU_Fandango/311/807/source_0556B46C-9A62-476D-9855-4B73B1DF6ECAthebooksellers_trailer1_1686108227935_mp4_video_1280x720_3900000_primary_audio_eng_7.mp4"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/624c685f824f55b8.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/44091202b8166aa7.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/72364a8106415e0f.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Д. У. Янг",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/0a07f6b0c8328676.jpg"
+      },
+      {
+        "name": "Паркер Поузи",
+        "role": "закадровая рассказчица",
+        "photo": "/assets/details/people/293a8101a343d6d8.jpg"
+      },
+      {
+        "name": "Фрэн Лебовиц",
+        "role": "участница, писательница и эссеистка",
+        "photo": "/assets/details/people/c6bbde11493af8df.jpg"
+      },
+      {
+        "name": "Гей Тализ",
+        "role": "участник, писатель и журналист",
+        "photo": "/assets/details/people/b3575365879a0f86.jpg"
+      },
+      {
+        "name": "Адина Коэн",
+        "role": "участница, совладелица Argosy Book Store"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Увлечённые герои",
+          "query": "увлечённые герои"
+        },
+        {
+          "label": "Мир редких книг",
+          "query": "мир редких книг"
+        },
+        {
+          "label": "Любовь к чтению",
+          "query": "любовь к чтению"
+        }
+      ],
+      "caveats": [
+        "Много интервью",
+        "Эпизодическая структура"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/the_booksellers/reviews"
+        },
+        {
+          "label": "Financial Times",
+          "url": "https://www.ft.com/content/1e692437-3870-48d8-9bfb-0b1a935de0b4"
+        },
+        {
+          "label": "The Age (Australia)",
+          "url": "https://www.theage.com.au/culture/movies/turning-up-the-volumes-20200701-p557z6.html"
+        }
+      ]
+    },
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/the_booksellers"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/The_Booksellers"
+      }
+    ]
+  },
+  "677566": {
+    "media": [
+      {
+        "type": "trailer",
+        "image": "/assets/details/stills/935dd0aa73f4e899.jpg",
+        "label": "Трейлер",
+        "url": "https://www.youtube.com/watch?v=avHJvdRPmus",
+        "embedUrl": "https://www.youtube-nocookie.com/embed/avHJvdRPmus?autoplay=1&rel=0"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/935dd0aa73f4e899.jpg",
+        "label": "Кадр из фильма · 1"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/a392f77450b5a56d.jpg",
+        "label": "Кадр из фильма · 2"
+      },
+      {
+        "type": "image",
+        "image": "/assets/details/stills/607907b63c3a5aa8.jpg",
+        "label": "Кадр из фильма · 3"
+      }
+    ],
+    "people": [
+      {
+        "name": "Паоло Соррентино",
+        "role": "Режиссёр",
+        "photo": "/assets/details/people/5b9dc1f2df945542.jpg"
+      },
+      {
+        "name": "Тони Сервилло",
+        "role": "Джеп Гамбарделла",
+        "photo": "/assets/details/people/358c54e84b042295.jpg"
+      },
+      {
+        "name": "Карло Вердоне",
+        "role": "Романо",
+        "photo": "/assets/details/people/5bdbbcc903d82709.jpg"
+      },
+      {
+        "name": "Сабрина Ферилли",
+        "role": "Рамона",
+        "photo": "/assets/details/people/27bd55670668a377.jpg"
+      },
+      {
+        "name": "Карло Буччироссо",
+        "role": "Лелло Кава",
+        "photo": "/assets/details/people/ab527b180805d3e0.jpg"
+      }
+    ],
+    "reviews": {
+      "praise": [
+        {
+          "label": "Визуальная красота Рима",
+          "query": "красивая картинка"
+        },
+        {
+          "label": "Виртуозная режиссура",
+          "query": "виртуозная режиссура"
+        },
+        {
+          "label": "Меланхоличная атмосфера",
+          "query": "меланхоличная атмосфера"
+        }
+      ],
+      "caveats": [
+        "Настроение важнее сюжета",
+        "Размеренный ритм"
+      ],
+      "sources": [
+        {
+          "label": "Rotten Tomatoes — критики и зрители",
+          "url": "https://www.rottentomatoes.com/m/the_great_beauty/reviews"
+        },
+        {
+          "label": "metro.co.uk",
+          "url": "http://metro.co.uk/2013/09/06/also-out-in-cinemas-the-great-beauty-more-than-honey-and-any-day-now-3951722/"
+        },
+        {
+          "label": "Austin Chronicle",
+          "url": "http://www.austinchronicle.com/calendar/film/2014-02-14/the-great-beauty/"
+        }
+      ]
+    },
+    "detailSources": [
+      {
+        "label": "Карточка и медиа — Rotten Tomatoes",
+        "url": "https://www.rottentomatoes.com/m/the_great_beauty"
+      },
+      {
+        "label": "Сведения и награды — фильмография",
+        "url": "https://en.wikipedia.org/wiki/The_Great_Beauty"
+      }
+    ]
+  }
+}

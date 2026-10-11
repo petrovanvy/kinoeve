@@ -1,8 +1,9 @@
 import assignment from '../../data/movies.json';
 import prototype from '../../data/prototype.json';
+import details from '../../data/movie-details.json';
 import type { Movie, Collection } from '../types';
 const topicRules: [string, RegExp][] = [['detective', /детектив/], ['animation', /анимация/], ['family', /семейный/], ['fantasy', /фэнтези/], ['comedy', /комедия/], ['authors', /драма|документальный|биографический/]];
-export const movies: Movie[] = [
+const baseMovies: Movie[] = [
   ...assignment.movies.map(raw => {
     const genres = raw.details.genres;
     const mood = raw.content.mood;
@@ -22,6 +23,9 @@ export const movies: Movie[] = [
   }),
   ...prototype as Movie[],
 ];
+// Keep the assignment intact; sourced detail records enrich both catalogue origins.
+const movieDetails = details as Record<string, Partial<Movie>>;
+export const movies: Movie[] = baseMovies.map(movie => ({ ...movie, ...movieDetails[movie.id] }));
 const topicsBase = [
   ['super', 'Супергероика', 'Сверхсилы и необычные герои'], ['detective', 'Детективы', 'Тайны, улики и расследования'],
   ['action', 'Перестрелки', 'Экшен и приключения'], ['authors', 'Авторское кино', 'Необычный взгляд на мир'],

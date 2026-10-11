@@ -6,9 +6,10 @@ export interface Movie {
   poster: string; kp: number | null; imdb: number | null; mood: string; logline: string; synopsis: string;
   badge?: string; topics: string[]; moods: string[];
   people: Person[]; awards: { title: string; category: string; result: 'win' | 'nomination' }[];
-  media: { type: 'image' | 'trailer'; image: string; label: string; url?: string; embedUrl?: string }[];
+  media: { type: 'image' | 'trailer'; image: string; label: string; url?: string; embedUrl?: string; videoUrl?: string }[];
   reviews: { praise: ReviewTag[]; caveats: string[]; sources: { label: string; url: string }[] } | null;
   links: { label: string; url: string }[]; origin: 'assignment' | 'prototype';
+  detailSources?: { label: string; url: string }[];
 }
 export interface Collection { id: string; title: string; description: string; posters: string[] }
 export interface RecommendationQuery { topic: string; mood?: string; primary?: 'topic' | 'mood'; refinement?: string; query?: string }

@@ -18,7 +18,7 @@ export function recommend(movies: Movie[], query: RecommendationQuery): Recommen
   const requestedMood = ['cozy', 'tension', 'thoughtful', 'childhood'].includes(query.refinement || '') ? query.refinement : '';
   const moodFirst = query.primary === 'mood' && !!query.mood;
   const candidates = movies.map((movie, index) => {
-    const text = normalize([movie.title, movie.originalTitle, movie.logline, movie.synopsis, movie.mood, ...movie.genres, ...movie.people.map(p => p.name)].join(' '));
+    const text = normalize([movie.title, movie.originalTitle, movie.logline, movie.synopsis, movie.mood, ...movie.genres, ...movie.people.map(p => p.name), ...(movie.reviews?.praise.flatMap(tag => [tag.label, tag.query]) ?? [])].join(' '));
     const matches = terms.filter(word => text.includes(word)).length;
     const topic = movie.topics.includes(query.topic);
     const mood = !!query.mood && movie.moods.includes(query.mood);
