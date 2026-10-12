@@ -1,0 +1,173 @@
+{
+  "6553389": [
+    {
+      "label": "Ivi",
+      "url": "https://www.ivi.ru/watch/novaya-volna-2025",
+      "access": "По подписке Иви",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "label": "Okko",
+      "url": "https://okko.tv/movie/nouvelle-vague",
+      "access": "Перейти к просмотру",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "1040690": [
+    {
+      "label": "Ivi",
+      "url": "https://www.ivi.ru/watch/186124",
+      "access": "По подписке Иви",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "label": "Okko",
+      "url": "https://okko.tv/movie/mid90s",
+      "access": "Перейти к просмотру",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "label": "Кинопоиск",
+      "url": "https://hd.kinopoisk.ru/film/4240d27c65db2f2e948f0711f85dd3ac",
+      "access": "Проверить доступность в регионе",
+      "availability": "region_check",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "714248": [
+    {
+      "label": "Ivi",
+      "url": "https://www.ivi.ru/watch/131484",
+      "access": "Перейти к просмотру",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "label": "Okko",
+      "url": "https://okko.tv/movie/song-of-the-sea",
+      "access": "Перейти к просмотру",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "425": [
+    {
+      "label": "Ivi",
+      "url": "https://www.ivi.ru/watch/100039",
+      "access": "Перейти к просмотру",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "label": "Okko",
+      "url": "https://okko.tv/movie/det-sjunde-inseglet",
+      "access": "Перейти к просмотру",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "label": "Кинопоиск",
+      "url": "https://hd.kinopoisk.ru/film/c748f79d09904dd083ed9f555d8bf70f",
+      "access": "Проверить доступность в регионе",
+      "availability": "region_check",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "425400": [],
+  "5237750": [
+    {
+      "label": "Okko",
+      "url": "https://okko.tv/movie/ne-khoronite-menja-bez-ivana",
+      "access": "Перейти к просмотру",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "225011": [
+    {
+      "label": "Ivi",
+      "url": "https://www.ivi.ru/watch/96320",
+      "access": "Перейти к просмотру",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "1259195": [],
+  "1347315": [],
+  "677566": [
+    {
+      "label": "Okko",
+      "url": "https://okko.tv/movie/la-grande-bellezza",
+      "access": "Перейти к просмотру",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "label": "Кинопоиск",
+      "url": "https://hd.kinopoisk.ru/film/4ff6b4b41eb3a972aae792e5f1e414f0",
+      "access": "Проверить доступность в регионе",
+      "availability": "region_check",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "proto-iron": [],
+  "proto-spider": [],
+  "proto-dark": [],
+  "proto-budapest": [],
+  "proto-incredibles": [],
+  "proto-guardians": [],
+  "proto-hancock": [],
+  "proto-strange": [],
+  "proto-bighero": [],
+  "proto-batman": [],
+  "proto-knives": [
+    {
+      "label": "Ivi",
+      "url": "https://www.ivi.ru/watch/226871",
+      "access": "Перейти к просмотру",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "label": "Okko",
+      "url": "https://okko.tv/movie/knives-out",
+      "access": "Перейти к просмотру",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "label": "Кинопоиск",
+      "url": "https://hd.kinopoisk.ru/film/411a4de4ea461ddf943dec0dfd29afc1",
+      "access": "Проверить доступность в регионе",
+      "availability": "region_check",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "proto-sherlock": [],
+  "proto-inception": [],
+  "proto-pulp": [],
+  "proto-nice": [
+    {
+      "label": "Ivi",
+      "url": "https://www.ivi.ru/watch/138661",
+      "access": "По подписке Иви",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    },
+    {
+      "label": "Okko",
+      "url": "https://okko.tv/movie/the-nice-guys",
+      "access": "Перейти к просмотру",
+      "availability": "available",
+      "checkedAt": "2026-10-12"
+    }
+  ],
+  "proto-clue": [],
+  "proto-enola": [],
+  "proto-thor": [],
+  "proto-shazam": []
+}

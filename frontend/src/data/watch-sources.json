@@ -1,0 +1,765 @@
+{
+  "checkedAt": "2026-10-12",
+  "method": "Проверка официальных страниц: название и год, действие просмотра или ожидания. Для Кинопоиска отдельно отмечены прямые страницы онлайн-кинотеатра без подтверждения регионального предложения. Цены и воспроизведение после оплаты не проверялись.",
+  "movies": {
+    "6553389": {
+      "title": "Новая волна",
+      "year": 2025,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/novaya-volna-2025",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Okko",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/nouvelle-vague",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.kinopoisk.ru/film/6553389/",
+          "evidence": "Карточка фильма есть, но предложение просмотра не подтверждено; сервис сообщает об ограничении региона/VPN."
+        }
+      ]
+    },
+    "1040690": {
+      "title": "Середина 90-х",
+      "year": 2018,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/186124",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Okko",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/mid90s",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "region_check",
+          "checkedAt": "2026-10-12",
+          "url": "https://hd.kinopoisk.ru/film/4240d27c65db2f2e948f0711f85dd3ac",
+          "evidence": "Найдена официальная страница онлайн-кинотеатра с совпадающими годом и описанием. Предложение просмотра не проверено: сервис показывает ограничение региона/VPN."
+        }
+      ]
+    },
+    "714248": {
+      "title": "Песнь моря",
+      "year": 2014,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/131484",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Okko",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/song-of-the-sea",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "425": {
+      "title": "Седьмая печать",
+      "year": 1957,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/100039",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Okko",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/det-sjunde-inseglet",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "region_check",
+          "checkedAt": "2026-10-12",
+          "url": "https://hd.kinopoisk.ru/film/c748f79d09904dd083ed9f555d8bf70f",
+          "evidence": "Найдена официальная страница онлайн-кинотеатра с совпадающими годом и описанием. Предложение просмотра не проверено: сервис показывает ограничение региона/VPN."
+        }
+      ]
+    },
+    "425400": {
+      "title": "Пожары",
+      "year": 2010,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/incendies",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "5237750": {
+      "title": "Не хороните меня без Ивана",
+      "year": 2022,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/504257",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/ne-khoronite-menja-bez-ivana",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.kinopoisk.ru/film/5237750/",
+          "evidence": "Карточка фильма есть, но предложение просмотра не подтверждено; сервис сообщает об ограничении региона/VPN."
+        }
+      ]
+    },
+    "225011": {
+      "title": "Изгнание",
+      "year": 2007,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/96320",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/izgnanie",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.kinopoisk.ru/film/225011/",
+          "evidence": "Карточка фильма есть, но предложение просмотра не подтверждено; сервис сообщает об ограничении региона/VPN."
+        }
+      ]
+    },
+    "1259195": {
+      "title": "Война искусств",
+      "year": 2019,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        },
+        {
+          "label": "Okko",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "1347315": {
+      "title": "Книготорговцы",
+      "year": 2019,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        },
+        {
+          "label": "Okko",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "677566": {
+      "title": "Великая красота",
+      "year": 2013,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/105699",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/la-grande-bellezza",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "region_check",
+          "checkedAt": "2026-10-12",
+          "url": "https://hd.kinopoisk.ru/film/4ff6b4b41eb3a972aae792e5f1e414f0",
+          "evidence": "Найдена официальная страница онлайн-кинотеатра с совпадающими годом и описанием. Предложение просмотра не проверено: сервис показывает ограничение региона/VPN."
+        }
+      ]
+    },
+    "proto-iron": {
+      "title": "Железный человек",
+      "year": 2008,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/87201",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/iron-man",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-spider": {
+      "title": "Человек-паук: Через вселенные",
+      "year": 2018,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/157328",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/spider-man-into-the-spider-verse",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.kinopoisk.ru/film/920265/",
+          "evidence": "Карточка фильма есть, но предложение просмотра не подтверждено; сервис сообщает об ограничении региона/VPN."
+        }
+      ]
+    },
+    "proto-dark": {
+      "title": "Тёмный рыцарь",
+      "year": 2008,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/64252",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/the-dark-knight",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-budapest": {
+      "title": "Отель «Гранд Будапешт»",
+      "year": 2014,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/114374",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/the-grand-budapest-hotel",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-incredibles": {
+      "title": "Суперсемейка",
+      "year": 2004,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/58266",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/the-incredibles",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-guardians": {
+      "title": "Стражи Галактики",
+      "year": 2014,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/109912",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/guardians-of-the-galaxy",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.kinopoisk.ru/film/689066/video/type/33,88,91/film/4913245/",
+          "evidence": "Карточка фильма есть, но предложение просмотра не подтверждено; сервис сообщает об ограничении региона/VPN."
+        }
+      ]
+    },
+    "proto-hancock": {
+      "title": "Хэнкок",
+      "year": 2008,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/65106",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/hancock",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-strange": {
+      "title": "Доктор Стрэндж",
+      "year": 2016,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/131267",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/doctor-strange",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-bighero": {
+      "title": "Город героев",
+      "year": 2014,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/109905",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/big-hero-6",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-batman": {
+      "title": "Бэтмен",
+      "year": 2022,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/165474",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/the-batman",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-knives": {
+      "title": "Достать ножи",
+      "year": 2019,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/226871",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Okko",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/knives-out",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "region_check",
+          "checkedAt": "2026-10-12",
+          "url": "https://hd.kinopoisk.ru/film/411a4de4ea461ddf943dec0dfd29afc1",
+          "evidence": "Найдена официальная страница онлайн-кинотеатра с совпадающими годом и описанием. Предложение просмотра не проверено: сервис показывает ограничение региона/VPN."
+        }
+      ]
+    },
+    "proto-sherlock": {
+      "title": "Шерлок Холмс",
+      "year": 2009,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/106304",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/sherlock-holmes",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-inception": {
+      "title": "Начало",
+      "year": 2010,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/638288",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/inception",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-pulp": {
+      "title": "Криминальное чтиво",
+      "year": 1994,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/100142",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/pulp-fiction",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.kinopoisk.ru/film/342/",
+          "evidence": "Карточка фильма есть, но предложение просмотра не подтверждено; сервис сообщает об ограничении региона/VPN."
+        }
+      ]
+    },
+    "proto-nice": {
+      "title": "Славные парни",
+      "year": 2016,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/138661",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Okko",
+          "status": "available",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/the-nice-guys",
+          "evidence": "На странице этого фильма есть действие «Смотреть»; название и год сверены."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.kinopoisk.ru/film/841152/",
+          "evidence": "Карточка фильма есть, но предложение просмотра не подтверждено; сервис сообщает об ограничении региона/VPN."
+        }
+      ]
+    },
+    "proto-clue": {
+      "title": "Улика",
+      "year": 1985,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/clue",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-enola": {
+      "title": "Энола Холмс",
+      "year": 2020,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/414327",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/enola-holmes",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-thor": {
+      "title": "Тор: Рагнарёк",
+      "year": 2017,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/131252",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/thor-ragnarok",
+          "evidence": "Просмотр не подтверждён на странице фильма."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    },
+    "proto-shazam": {
+      "title": "Шазам!",
+      "year": 2019,
+      "providers": [
+        {
+          "label": "Ivi",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://www.ivi.ru/watch/638307",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Okko",
+          "status": "unavailable",
+          "checkedAt": "2026-10-12",
+          "url": "https://okko.tv/movie/shazam",
+          "evidence": "Вместо просмотра показано «Сообщить о появлении»."
+        },
+        {
+          "label": "Кинопоиск",
+          "status": "unconfirmed",
+          "checkedAt": "2026-10-12",
+          "evidence": "Не найдена подтверждённая страница просмотра этого фильма и года. Это не доказательство отсутствия фильма на платформе."
+        }
+      ]
+    }
+  }
+}

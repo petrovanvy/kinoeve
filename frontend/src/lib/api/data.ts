@@ -1,6 +1,7 @@
 import assignment from '../../data/movies.json';
 import prototype from '../../data/prototype.json';
 import details from '../../data/movie-details.json';
+import watchLinks from '../../data/watch-links.json';
 import type { Movie, Collection } from '../types';
 const topicRules: [string, RegExp][] = [['detective', /детектив/], ['animation', /анимация/], ['family', /семейный/], ['fantasy', /фэнтези/], ['comedy', /комедия/], ['authors', /драма|документальный|биографический/]];
 const baseMovies: Movie[] = [
@@ -25,7 +26,8 @@ const baseMovies: Movie[] = [
 ];
 // Keep the assignment intact; sourced detail records enrich both catalogue origins.
 const movieDetails = details as Record<string, Partial<Movie>>;
-export const movies: Movie[] = baseMovies.map(movie => ({ ...movie, ...movieDetails[movie.id] }));
+const providers = watchLinks as Record<string, Movie['links']>;
+export const movies: Movie[] = baseMovies.map(movie => ({ ...movie, ...movieDetails[movie.id], links: providers[movie.id] ?? [] }));
 const topicsBase = [
   ['super', 'Супергероика', 'Сверхсилы и необычные герои'], ['detective', 'Детективы', 'Тайны, улики и расследования'],
   ['action', 'Перестрелки', 'Экшен и приключения'], ['authors', 'Авторское кино', 'Необычный взгляд на мир'],

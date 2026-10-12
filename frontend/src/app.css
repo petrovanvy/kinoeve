@@ -62,3 +62,20 @@ body:has(dialog[open]) { overflow: hidden; }
   .theme-card, .themes-grid .theme-card { min-height: 120px; }
   .awards-grid { grid-template-columns: minmax(0,1fr); }
 }
+
+/* Posters keep all four corners rounded in both card orientations. */
+:root { --poster-radius: 20px; }
+.movie-card .poster-link { border-radius: var(--poster-radius); overflow: hidden; }
+.movie-card .poster-link img { border-radius: inherit; }
+.watch-toggle { min-height: 44px; padding: 0 8px 0 0; }
+.watch-modal { width: 560px; max-width: calc(100vw - 40px); max-height: calc(100dvh - 40px); overflow-y: auto; background: var(--surface); color: var(--text); border: 1px solid var(--border); border-radius: 24px; padding: 28px; }
+.watch-modal::backdrop { background: #000a; backdrop-filter: blur(4px); }
+.watch-links { display: grid; gap: 12px; }
+.watch-link { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 18px 20px; background: var(--raised); border: 1px solid var(--border); border-radius: 14px; text-decoration: none; }
+.watch-link:hover { border-color: var(--accent); }
+.watch-link strong { font-size: 18px; }
+.watch-link small { display: block; margin-top: 6px; font-size: 14px; line-height: 1.5; }
+.watch-link > span:last-child { color: var(--accent); font-size: 24px; }
+.watch-note, .watch-empty { font-size: 14px; line-height: 1.6; }
+.watch-note { margin-top: 20px; }
+@media(max-width:700px) { .watch-modal { padding: 20px; } .watch-modal .modal-head { gap: 12px; } .watch-modal h2 { font-size: 24px; } .watch-link { padding: 16px; } }
