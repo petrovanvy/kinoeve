@@ -93,3 +93,43 @@ body:has(dialog[open]) { overflow: hidden; }
 @media (max-width: 700px) {
   .review-section .section-heading { flex-direction: column; align-items: flex-start; gap: 12px; }
 }
+
+/* A compact header replaces stretched posters when a card has little room. */
+.movie-card-container { min-width: 0; container: recommendation / inline-size; }
+.movie-card { height: 100%; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); grid-template-rows: auto 1fr auto; }
+.movie-card > .poster-link { grid-column: 1; grid-row: 1 / 4; aspect-ratio: auto; }
+.movie-card-info { grid-column: 2; grid-row: 1; padding-bottom: 0; }
+.movie-card > .card-reason { grid-column: 2; grid-row: 2; margin: 12px 18px 16px; }
+.movie-card > .card-actions { grid-column: 2; grid-row: 3; width: auto; margin: 0 18px 18px; container: movie-actions / inline-size; }
+@container recommendation (max-width: 459px) {
+  .movie-card { grid-template-columns: clamp(100px, 40cqw, 150px) minmax(0, 1fr); min-height: 0; padding: 0 0 20px; }
+  .movie-card > .poster-link { grid-row: 1; aspect-ratio: 2 / 3; align-self: start; }
+  .movie-card-info { padding: 20px 20px 0; }
+  .movie-card > .card-reason { grid-column: 1 / -1; margin: 20px 20px 24px; }
+  .movie-card > .card-actions { grid-column: 1 / -1; margin: 0 20px; }
+  .movie-card h2 { font-size: 21px; }
+}
+@container recommendation (max-width: 320px) {
+  .movie-card-info { padding: 16px 14px 0; }
+  .movie-card h2 { font-size: 18px; }
+  .movie-card > .card-reason { margin: 16px 16px 20px; }
+  .movie-card > .card-actions { margin: 0 16px; }
+}
+/* The actions now occupy their own grid cell. */
+@container recommendation (max-width: 292px) {
+  .movie-card > .card-actions { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .movie-card > .card-actions > .primary { grid-column: 1 / -1; }
+}
+/* A single-column list also keeps the poster compact, even on a wide phone. */
+@media (max-width: 700px) {
+  .movie-card { grid-template-columns: clamp(100px, 40cqw, 150px) minmax(0, 1fr); min-height: 0; padding: 0 0 20px; }
+  .movie-card > .poster-link { grid-row: 1; aspect-ratio: 2 / 3; align-self: start; }
+  .movie-card-info { padding: 20px 20px 0; }
+  .movie-card > .card-reason { grid-column: 1 / -1; margin: 20px 20px 24px; }
+  .movie-card > .card-actions { grid-column: 1 / -1; margin: 0 20px; }
+}
+@media (max-width: 375px) {
+  .movie-card-info { padding: 16px 14px 0; }
+  .movie-card > .card-reason { margin: 16px 16px 20px; }
+  .movie-card > .card-actions { margin: 0 16px; }
+}
