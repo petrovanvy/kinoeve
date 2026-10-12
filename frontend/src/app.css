@@ -147,3 +147,16 @@ body:has(dialog[open]) { overflow: hidden; }
 .awards-grid small { line-height: 1.5; }
 @media (max-width: 1100px) { .awards-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 700px) { .awards-grid { grid-template-columns: minmax(0, 1fr); } }
+/* Awards share aligned cells and separators, like the review and cast groups. */
+.awards-grid { column-gap: 0; }
+.awards-grid > p { padding: 0 24px; border-left: 1px solid var(--border); }
+.awards-grid > p:nth-child(3n + 1) { padding-left: 0; border-left: 0; }
+@media (max-width: 1100px) and (min-width: 701px) {
+  .awards-grid > p:nth-child(3n + 1) { padding-left: 24px; border-left: 1px solid var(--border); }
+  .awards-grid > p:nth-child(2n + 1) { padding-left: 0; border-left: 0; }
+}
+@media (max-width: 700px) {
+  .awards-grid { row-gap: 16px; }
+  .awards-grid > p, .awards-grid > p:nth-child(3n + 1) { padding: 16px 0 0; border-left: 0; border-top: 1px solid var(--border); }
+  .awards-grid > p:first-child { padding-top: 0; border-top: 0; }
+}
