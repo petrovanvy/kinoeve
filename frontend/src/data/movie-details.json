@@ -106,7 +106,11 @@
           "label": "The Spectator",
           "url": "https://www.spectator.co.uk/2008/04/tired-old-friend/"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу более цельный сюжет",
+        "query": "сюжет"
+      }
     },
     "links": [
       {
@@ -233,7 +237,11 @@
           "label": "New York Times",
           "url": "https://www.nytimes.com/2018/12/31/movies/spider-man-into-the-spider-verse-father.html"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу спокойнее",
+        "query": "спокойный"
+      }
     },
     "links": [
       {
@@ -359,7 +367,11 @@
           "label": "New Statesman",
           "url": "http://www.newstatesman.com/film/2008/07/dark-knight-joker-batman-nolan"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу легче",
+        "refinement": "humor"
+      }
     },
     "links": [
       {
@@ -493,7 +505,11 @@
           "label": "Filmspotting",
           "url": "https://www.filmspotting.net/shortends-archive/2020/5/29/the-grand-budapest-hotel"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу больше реализма",
+        "query": "реализм"
+      }
     },
     "links": [
       {
@@ -619,7 +635,11 @@
           "label": "Common Sense Media",
           "url": "http://www.commonsensemedia.org/movie-reviews/incredibles "
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу без напряжения",
+        "refinement": "lighter"
+      }
     },
     "links": [
       {
@@ -745,7 +765,11 @@
           "label": "Flavorwire",
           "url": "http://flavorwire.com/470222/guardians-of-the-galaxy-and-marvels-third-act-problem"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу неожиданнее",
+        "query": "неожиданный"
+      }
     },
     "links": [
       {
@@ -854,7 +878,11 @@
           "label": "Guardian",
           "url": "http://film.guardian.co.uk/News_Story/Critic_Review/Guardian_review/0,,2287496,00.html"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу более цельную историю",
+        "query": "сюжет"
+      }
     },
     "links": [
       {
@@ -969,7 +997,11 @@
           "label": "TIME Magazine",
           "url": "http://time.com/4555486/doctor-strange-review-benedict-cumberbatch/"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу необычный сюжет",
+        "query": "необычный"
+      }
     },
     "links": [
       {
@@ -1096,7 +1128,11 @@
           "label": "Vox",
           "url": "http://www.vox.com/2014/12/4/7332611/big-hero-6"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу без грустных тем",
+        "refinement": "lighter"
+      }
     },
     "links": [
       {
@@ -1227,7 +1263,11 @@
           "label": "HuffPost",
           "url": "https://www.huffpost.com/entry/the-batman-reimagines-him-stripped-of-his-douchiness-review_n_621fd643e4b018aad3c2696f"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу динамичнее",
+        "refinement": "energy"
+      }
     },
     "links": [
       {
@@ -1347,7 +1387,11 @@
           "label": "Associated Press",
           "url": "https://apnews.com/5594211ac103426a988e469a020c74ce"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу больше действия",
+        "refinement": "energy"
+      }
     },
     "links": [
       {
@@ -1474,7 +1518,11 @@
           "label": "The Atlantic",
           "url": "https://www.theatlantic.com/entertainment/archive/2009/12/a-different-way-holmes/32678/"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу больше расследования",
+        "query": "расследование"
+      }
     },
     "links": [
       {
@@ -1610,7 +1658,11 @@
           "label": "Autostraddle",
           "url": "https://www.autostraddle.com/category/arts-and-entertainment/"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу попроще",
+        "refinement": "lighter"
+      }
     },
     "links": [
       {
@@ -1730,7 +1782,11 @@
           "label": "Chicago Sun-Times",
           "url": "https://www.rogerebert.com/reviews/pulp-fiction-1994"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу без жестокости",
+        "refinement": "lighter"
+      }
     },
     "links": [
       {
@@ -1843,7 +1899,11 @@
           "label": "The Ringer",
           "url": "https://www.theringer.com/authors/k-austin-collins/archives/7?source=---------7"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу понятнее сюжет",
+        "query": "понятный"
+      }
     },
     "links": [
       {
@@ -1941,7 +2001,11 @@
           "label": "Los Angeles Times",
           "url": "http://articles.latimes.com/1985-12-13/entertainment/ca-16858_1_clue-as-whodunit-spoof"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу менее гротескно",
+        "query": "реализм"
+      }
     },
     "links": [
       {
@@ -2046,7 +2110,11 @@
           "label": "Daily Telegraph (UK)",
           "url": "https://www.telegraph.co.uk/films/0/enola-holmes-review-sherlock-meets-fleabag-zippy-conan-doyle/"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу загадку посложнее",
+        "query": "загадка"
+      }
     },
     "links": [
       {
@@ -2160,7 +2228,11 @@
           "label": "Culturess",
           "url": "https://culturess.com/2017/11/02/thor-ragnarok-rollicking-good-time/"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу серьёзнее",
+        "query": "серьёзный"
+      }
     },
     "links": [
       {
@@ -2274,7 +2346,11 @@
           "label": "FilmWeek (LAist)",
           "url": "https://www.scpr.org/programs/filmweek/2019/04/05/64357/filmweek-pet-sematary-amazing-grace-shazam-and-mor/"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу без пугающих сцен",
+        "refinement": "lighter"
+      }
     },
     "links": [
       {
@@ -2374,7 +2450,11 @@
           "label": "Observer (UK)",
           "url": "https://observer.co.uk/culture/film/article/richard-linklaters-nouvelle-vague-is-a-beautiful-portrait-of-a-turning-point-in-cinema"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу историю вместо интервью",
+        "query": "сюжет"
+      }
     },
     "detailSources": [
       {
@@ -2469,7 +2549,11 @@
           "label": "Observer (UK)",
           "url": "https://www.theguardian.com/film/2019/apr/13/mid-90s-review-jonah-hill"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу больше событий",
+        "refinement": "energy"
+      }
     },
     "detailSources": [
       {
@@ -2564,7 +2648,11 @@
           "label": "Observer (UK)",
           "url": "http://www.theguardian.com/film/2015/jul/12/song-of-the-sea-review"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу повеселее",
+        "refinement": "humor"
+      }
     },
     "detailSources": [
       {
@@ -2650,7 +2738,11 @@
           "label": "Guardian",
           "url": "https://www.theguardian.com/film/1958/mar/08/world.mainsection"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу легче",
+        "refinement": "lighter"
+      }
     },
     "detailSources": [
       {
@@ -2747,7 +2839,11 @@
           "label": "News of the World",
           "url": "http://www.newsoftheworld.co.uk/notw/nol_showbiz/nolcelebrity_movies/1333085/Review-of-Denis-Villeneuves-Incendies.html"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу без тяжёлых переживаний",
+        "refinement": "lighter"
+      }
     },
     "detailSources": [
       {
@@ -2838,7 +2934,11 @@
           "label": "Кинопоиск — отзывы зрителей",
           "url": "https://www.kinopoisk.ru/film/5237750/reviews/"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу динамичнее",
+        "refinement": "energy"
+      }
     },
     "detailSources": [
       {
@@ -2918,7 +3018,11 @@
           "label": "London Evening Standard",
           "url": "http://www.thisislondon.co.uk/film/film-23339747-details/The+Banishment/filmReview.do?reviewId=23532489"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу больше событий",
+        "refinement": "energy"
+      }
     },
     "detailSources": [
       {
@@ -3002,7 +3106,11 @@
           "label": "Beat Film Festival — о фильме",
           "url": "https://beatfilmfestival.ru/movies/war-of-art"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу понятнее",
+        "query": "понятный"
+      }
     },
     "detailSources": [
       {
@@ -3094,7 +3202,11 @@
           "label": "The Age (Australia)",
           "url": "https://www.theage.com.au/culture/movies/turning-up-the-volumes-20200701-p557z6.html"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу цельную историю",
+        "query": "сюжет"
+      }
     },
     "detailSources": [
       {
@@ -3191,7 +3303,11 @@
           "label": "Austin Chronicle",
           "url": "http://www.austinchronicle.com/calendar/film/2014-02-14/the-great-beauty/"
         }
-      ]
+      ],
+      "alternative": {
+        "label": "Хочу больше сюжета",
+        "query": "сюжет"
+      }
     },
     "detailSources": [
       {

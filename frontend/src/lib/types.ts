@@ -7,7 +7,7 @@ export interface Movie {
   badge?: string; topics: string[]; moods: string[];
   people: Person[]; awards: { title: string; category: string; result: 'win' | 'nomination' }[];
   media: { type: 'image' | 'trailer'; image: string; label: string; url?: string; embedUrl?: string; videoUrl?: string }[];
-  reviews: { praise: ReviewTag[]; caveats: string[]; sources: { label: string; url: string }[] } | null;
+  reviews: { alternative?: { label: string; refinement?: string; query?: string }; praise: ReviewTag[]; caveats: string[]; sources: { label: string; url: string }[] } | null;
   links: { label: string; url: string; access?: string; availability?: 'available' | 'region_check'; checkedAt?: string }[]; origin: 'assignment' | 'prototype';
   detailSources?: { label: string; url: string }[];
 }
